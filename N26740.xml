@@ -112,8 +112,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:035586_0000_1005F6058E849550"/>
-            <pb facs="tcp:035586_0001_1005F5D4076C3138"/>
+            <pb facs="unknown:035586_0000_1005F6058E849550"/>
+            <pb facs="unknown:035586_0001_1005F5D4076C3138"/>
             <p>ACCOUNT OF THE MALIGNANT FEVER, LALELY PREVALENT IN THE CITY OF NEW-YORK.</p>
             <p>CONTAINING</p>
             <list>
@@ -128,11 +128,11 @@
             <p>NEW-YORK: Printed by HURTIN and M'FARLANE, at the <hi>Literary Printing Office,</hi> No. 29 Gold Street, AND SOLD BY THE AUTHOR, No. 1 RIDER-STREET—BY JOHN LOW, <hi>AT THE SHAKESPEARE'</hi>s <hi>HEAD</hi> No. 332 WATER-STREET, THE OTHER BOOKSELLERS, AND THE PRINTERS. 1799.</p>
          </div>
          <div type="preface">
-            <pb facs="tcp:035586_0002_1005F5D6A931C2D8"/>
+            <pb facs="unknown:035586_0002_1005F5D6A931C2D8"/>
             <head>THE PREFACE.</head>
             <p>SOON after the commencement of the late Malig<g ref="char:EOLhyphen"/>nant Fever in our city, a ſhort account of which is now laid before the Public, two of my particular friends were ſeized with all its ſymptoms. On them, I thought it my duty to attend, that I might render ſuch aſſiſtance as lay in my power. A few days after the diſeaſe began to ſpread its direful influence in the vicinity of my place of reſidence, and I reſolved to pay the ſame attention to my neighbours as I was willing to do to my friends. For this reſolution, however, I claim no merit; For as the ſituation of my family was ſuch as to render it improper, at leaſt inconvenient to move, and finding myſelf ſur<g ref="char:EOLhyphen"/>rounded with peſtilence, I firmly believed, that I was equally ſafe, while performing the common duties of hu<g ref="char:EOLhyphen"/>manity, to the afflicted, as ſitting uſeleſs in my own ap<g ref="char:EOLhyphen"/>partment; nay more, had I remained inactive, my mind might have become a prey to melancholy, and I ſhould, in all probability, have been oppreſſed with fear, than which there is not a greater prediſponent cauſe to diſor<g ref="char:EOLhyphen"/>der, nor perhaps an equal cauſe in making its termina<g ref="char:EOLhyphen"/>tion fatal. Reaſoning in this manner, and truſting in Divine Providence for protection, I therefore determi<g ref="char:EOLhyphen"/>ned to make no heſitation in viſiting any ſick perſon to whom I could be uſeful.</p>
             <p>
-               <pb n="iv" facs="tcp:035586_0003_1005F5D839B61028"/>
+               <pb n="iv" facs="unknown:035586_0003_1005F5D839B61028"/>
 On the 1ſt September, the Health Commiſſioners having heard that I was not afraid of ſeeing the infected, wiſhed me to enter into their ſervice. I agreed, and from that day continued employed by them, and after<g ref="char:EOLhyphen"/>wards by the Health Committee, till the termination of the diſeaſe.</p>
             <p>In this ſituation, I had daily opportunities of ſeeing the progreſs of the fever, the treatment of the ſick, the manner in which the poor were relieved, &amp;c. and as the Magiſtrates were ſo obliging as to permit me to have recourſe to their papers for information with reſpect to the donations, and the names of the dead, I was induced to venture on the preſent publication.</p>
             <p>My aim, in every page, has been truth and accura<g ref="char:EOLhyphen"/>cy, without embelliſhment. How far I have ſucceed<g ref="char:EOLhyphen"/>ed, I cannot at preſent determine; but of this I am cer<g ref="char:EOLhyphen"/>tain, I meant well, and have uſed my utmoſt endeavour to render the work as ſatisfactory to the public, as poſ<g ref="char:EOLhyphen"/>ſible.</p>
@@ -145,19 +145,19 @@ On the 1ſt September, the Health Commiſſioners having heard that I was not af
       </front>
       <body>
          <head>
-            <pb facs="tcp:035586_0004_1005F5DBF43EC950"/>
+            <pb facs="unknown:035586_0004_1005F5DBF43EC950"/>
 AN ACCOUNT OF THE MALIGNANT FEVER, LATETY PREVALENT IN NEW-YORK.</head>
          <div n="1" type="part">
             <div type="section">
                <head>State of NEW-YORK, previous to the commencement of the Malignant Fever.</head>
                <p>WHEN, in the month of July laſt, the public prints announced, that a peſtilential fever had made its appear<g ref="char:EOLhyphen"/>ance in Philadelphia, the inhabitants of this city, received the information with ſorrow. They felt for the diſtreſſes of their fellow-creatures, whilſt at the ſame time, they little thought, that a calamity of a ſimilar nature was impending over themſelves. Our city was at that time repreſented, and I believe, with truth, to be remarkably healthy. The greateſt attention was paid to cleaning our ſtreets, and the Health Phyſician was vigilant in the diſcharge of his duty. Hence as we apprehended no danger from the importation of peſtilence, much leſs did we think that it could be en<g ref="char:EOLhyphen"/>gendered amongſt ourſelves. Our citizens in this ſtate of ſuppoſed ſecurity, were chiefly bent on making prepara<g ref="char:EOLhyphen"/>tions to defend their liberty and independence againſt the aggreſſions of a foreign foe.</p>
                <p>For this purpoſe military aſſociations were rapidly form<g ref="char:EOLhyphen"/>ed; companies of infantry, cavalry and artillery, compo<g ref="char:EOLhyphen"/>ſed of citizens of every age and ſituation in life, daily pa<g ref="char:EOLhyphen"/>raded to acquire the neceſſary knowledge of the art of war; whilſt others were perſonally engaged in erecting fortifications at the battery, that we might be enabled to defend ourſelves againſt the attacks of any invaders. Sub<g ref="char:EOLhyphen"/>ſcriptions, likewiſe, were raiſed to a great amount, for the
-<pb n="6" facs="tcp:035586_0005_1005F5DE35373310"/>
+<pb n="6" facs="unknown:035586_0005_1005F5DE35373310"/>
 purpoſe of building veſſels of war, to guard our coaſt and protect our commerce.</p>
                <p>But in the midſt of theſe mighty preparations, an enemy more terrible than any foreign nation, made its appearance and ſpread havoc and deſtruction in every direction. I mean the <hi>Yellow Fever.</hi>
                </p>
                <p>Upon the approach of this awful diſorder, the buſtle we were making for ſelf-defence was ſuddenly ſuſpended; the warlike looks, which our citizens had aſſumed, changed in<g ref="char:EOLhyphen"/>to thoſe of diſmay; the fortifications in a great meaſure neglected; the military aſſociations diſcontinued, and death, ſpeedy death, ſeemed to be the indiſcriminate por<g ref="char:EOLhyphen"/>tion of the inhabitants of this wealthy metropolis; for as it is well deſcribed in one of our public prints, "parents and children, huſbands and wives, brothers and ſiſters were ſuddenly torn from the feeling boſoms of their rela<g ref="char:EOLhyphen"/>tives, while the mourning ſurvivors were themſelves mo<g ref="char:EOLhyphen"/>mentarily expecting the ſolemn call: The liſping infant calling for its dead parents; and none but ſtrangers to af<g ref="char:EOLhyphen"/>ford relief; houſes totally emptied of their inhabitants, and the citizens flying in every direction from the infected places, as from a conflagrated town, or falling tower; the conſtant hearſe in ſable melancholy, conveying the victims of this direful calamity to their long home, and whole fa<g ref="char:EOLhyphen"/>milies in many inſtances cut off without a ſingle individual being Jeſt." Many women who enjoyed eaſe and afflu<g ref="char:EOLhyphen"/>ence, are bereft of their huſbands, and left to ſtruggle for the maintainance of numerous families of children, a taſk for which they are but little qualified, and many orphans deprived of their parents, muſt be brought up at the public expence; Divine Providence thus affording us an awful leſſon of the inſtability of human affairs, and teaching us, if we are not incorrigible, how ineffectual the exertions of men are, unleſs they be forwarded by the Deity. By this remark, however, I would by no means be underſtood as inſinuating, that the meaſures we were adopting for the protection of our lives and property, and of our wives and children, were improper; on the contrary, I think it was the duty of every good citizen, to exert himſelf to the utmoſt on ſuch an emergency; but I ſhall certainly be excuſed for making this obſervation, that when we are threatened with dangers of whatever nature, whilſt we en<g ref="char:EOLhyphen"/>deavour
-<pb n="7" facs="tcp:035586_0006_1005F5DFC93FEF68"/>
+<pb n="7" facs="unknown:035586_0006_1005F5DFC93FEF68"/>
 by every means in our power to avert them, we ſhould depend for ſucceſs not on our own exertions, but on the bleſſing of Heaven.</p>
                <p>Having made theſe prefatory remarks, I ſhall now proceed to the melancholy ſubject I have undertaken, <abbr>viz.</abbr> the hiſtory of a peſtilential diſorder, which, though it has at different times appeared in this city, particularly i<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
@@ -171,7 +171,7 @@ by every means in our power to avert them, we ſhould depend for ſucceſs not o
                      <desc>•</desc>
                   </gap>s him<g ref="char:EOLhyphen"/>ſelf taken with any ſort of ſickneſs; for the <hi>Yellow-Fever,</hi> in its attacks, is peculiarly inſidious; it aſſumes a variety of forms, and often that of a <hi>common cold,</hi> or ſome ſlight diſtemper, for which moſt people would think there was no neceſſity for ſeeking a remedy.</p>
                <p>
-                  <pb n="8" facs="tcp:035586_0007_1005F5E265567CA8"/>
+                  <pb n="8" facs="unknown:035586_0007_1005F5E265567CA8"/>
 Indeed, according to Doctor Ruſh, of Philadelphia, when a particular epidemic viſits any ſpot, every other complaint is at once abſorbed, or loſt with the then raging ſickneſs. This, I apprehend, is now the general opinion of our moſt eminent phyſicians; and had it been generally believed by the inhabitants of New-York, I am almoſt convinced that the havoc in our city would have by no means been ſo great as it was; for I have little doubt that more than one half of thoſe to whom the diſorder proved fatal, might in all probability have been now in good health, had they, on the firſt attack, applied the proper remedies; and ſhould this, or any other city in the Uni<g ref="char:EOLhyphen"/>ted States, be again afflicted by a ſimilar calamity, (which God forbid) as a friend to my fellow citizens, I would uſe my utmoſt endeavours, in preſſing this truth upon their <gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap>inds, that in ſuch a ſituation, <hi>delays are peculiarly dangerous</hi>
@@ -181,7 +181,7 @@ Indeed, according to Doctor Ruſh, of Philadelphia, when a particular epidemic v
                <p>Our Health-Commiſſioners began to be ſomewhat ap<g ref="char:EOLhyphen"/>prehenſive with regard to the appearance of this peſtilence ſo early as the 6th of Auguſt, as may be ſeen from the following letter addreſſed to the Mayor:—</p>
                <floatingText type="letter">
                   <body>
-                     <pb n="9" facs="tcp:035586_0008_1005F5E4A0521BE0"/>
+                     <pb n="9" facs="unknown:035586_0008_1005F5E4A0521BE0"/>
                      <head>TO THE MAYOR.</head>
                      <opener>
                         <dateline>
@@ -203,12 +203,12 @@ Indeed, according to Doctor Ruſh, of Philadelphia, when a particular epidemic v
                </floatingText>
                <p>On the ſame day they iſſued an advertiſement, notifying their determination to put the laws in force with reſpect to thoſe who ſhould be delinquent in regard to keeping the ſtreets clean, before their reſpective doors, and in remov<g ref="char:EOLhyphen"/>ing dirt from their yards and cellars, adding that the ſtreet inſpectors, whoſe immediate duty it was to attend to that buſineſs, were directed to report all offences of this nature to the police, and that the penalty againſt offenders would be rigidly exacted.</p>
                <p>At the time of this advertiſement, however, it was re<g ref="char:EOLhyphen"/>marked both by citizens and ſtrangers, that our ſtreets were kept uncommonly clean; but with reſpect to yards and cellars, I have reaſon to believe that, to the diſgrace of ſome individuals, it was in ſome caſes otherwiſe;—and I may add, that where ſuch nuiſances have exiſted, the in<g ref="char:EOLhyphen"/>habitants
-<pb n="10" facs="tcp:035586_0009_1005F5E6DBE2DEC8"/>
+<pb n="10" facs="unknown:035586_0009_1005F5E6DBE2DEC8"/>
 of that vicinity have generally been the ſevereſt ſufferers.</p>
                <p>By ſome people our Commiſſioners have been cenſured for neglecting to notify the citizens <hi>officially</hi> of the danger to which they were expoſed, ſo ſoon as they became ac<g ref="char:EOLhyphen"/>quainted with the exiſtence of any malignant or peſti<g ref="char:EOLhyphen"/>lential fever in the city. Such cenſure, however, ap<g ref="char:EOLhyphen"/>pears, to me to be very unjuſt: for the exiſtence of ſome caſes of fever was univerſally known towards the middle of Auguſt, and became the ſubject of general con<g ref="char:EOLhyphen"/>verſation. The Commiſſioners never denied it, nor did they attempt to conceal it: But as it was the opinion of moſt people, that it was not probable the diſorder would ſpread, and that it would vaniſh after ſacrificing a few indi<g ref="char:EOLhyphen"/>viduals, as had happened in the years 1796 and 1797, ſuch a publication, whilſt it could have been of no uſe to the inhabitants, who were well acquainted with their ſituation, might have been highly prejudicial to our commerce, by deterring country people from coming amongſt them, at a time, when according to every appearance, they could paſs and repaſs to our city in perfect ſafety, and without running any riſque of receiving infection.</p>
                <p>On the 12th, 13th, and 14th of Auguſt, there was heavy ſhowers of rain; that on the 14th, commenced at four in in the morning, and continued without the leaſt intermiſ<g ref="char:EOLhyphen"/>ſion, until nine with conſiderable thunder: The quantity which fell during theſe five hours, was ſuppoſed to be greater than had at any time fallen, during the ſame ſpace of time for many years. The ſtreets were covered with water, in many places knee deep, and a vaſt number of cellars were filled with it.</p>
                <p>It was at the time, generally believed, that this exceſſive rain and thunder would ſo purify the air, that our city would in a few days be totally exempt from any caſes of the diſorder, but alas! our expectations in this reſpect, were dreadfully diſappointed: for from this day, it almoſt immediately began to ſpread in every direction. But, however erroneous, the ideas of many have been with reſpect to this circumſtance, ſeverals thought very differ<g ref="char:EOLhyphen"/>ently; in particular, a writer in the Commercial Adverti<g ref="char:EOLhyphen"/>ſer, on the evening of the 14th, the day on which this exceſſive rain fell, who ſeems to have foreſeen what would
-<pb n="11" facs="tcp:035586_0010_1005F5E88446DD28"/>
+<pb n="11" facs="unknown:035586_0010_1005F5E88446DD28"/>
 been the true conſequences of it. His language is ſo re<g ref="char:EOLhyphen"/>markable that I cannot forbear to quote it. "The im<g ref="char:EOLhyphen"/>menſe bodies of water" ſays he, "which have lately fallen, whilſt it ſeems to cleanſe the ſtreets, ſhould excite a degree of ſerious alarm, when the effects of its remaining ſtagnant is conſidered. Many cellars muſt no doubt have been the receptacle for much of the rain which has fallen<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap>
@@ -221,7 +221,7 @@ been the true conſequences of it. His language is ſo re<g ref="char:EOLhyphen"
                      <desc>•</desc>
                   </gap>moſt endeavours were exerted to have every nuiſance removed, and as far as lay in their power, to prevent the ſpreading of the diſ<g ref="char:EOLhyphen"/>eaſe, with which we then began to be afflicted. Their en<g ref="char:EOLhyphen"/>deavours, however, were ineffectual, as the number of deaths from this time almoſt daily encreaſed.</p>
                <p>
-                  <pb n="12" facs="tcp:035586_0011_1005F5EAD928FAA0"/>
+                  <pb n="12" facs="unknown:035586_0011_1005F5EAD928FAA0"/>
 About the 24th numbers began to leave the city, and many of thoſe who had offices for the tranſaction of buſi<g ref="char:EOLhyphen"/>neſs in that part of the city which lies toward<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap> the Eaſt Ri<g ref="char:EOLhyphen"/>ver, moved to Broadway, which was deemed more heal<g ref="char:EOLhyphen"/>thy. The Cuſtom-Houſe, likewiſe, in Mill-ſtreet, and the Inſurance-Office in Water-ſtreet, were fixed for the time in the Tontine-City-Tavern, in Broadway. During the whole month of Auguſt, the number of deaths amount<g ref="char:EOLhyphen"/>ed to one hundred and thirty three men, fifty five women, and one hundred and forty one children, making in all three hundred and twenty nine. As particular attention had not been hitherto paid by the ſextons to diſtinguiſh thoſe who fell victims to the fever, from thoſe who had died of any other diſorder, it is difficult to aſcertain their p<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -232,7 +232,7 @@ About the 24th numbers began to leave the city, and many of thoſe who had offic
                   </gap>oſe up to 60. The total number of deaths, during this month, was eleven hundred and fifty two, of whom nine hundred and fifty four died of <gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap>ever. Six hundred and forty eight, were men, three hundred and fifty four women, and and one hundred and fifty two children. The daily average thro' the month was about 38. By the 15th of this month, our ſituation was known at a diſtance, as on that day a procla<g ref="char:EOLhyphen"/>mation was iſſued by James Cahoun, eſqr Mayor of Bal<g ref="char:EOLhyphen"/>timore, prohibiting the entrance into the city of Baltimore or within three miles thereof, of all perſons whomſoever, who had come from the cities of New-York or Philadel<g ref="char:EOLhyphen"/>phia, or from Wilmington in the ſtate of Delaware, and forbidding the citizens of Baltimore from having any
-<pb n="13" facs="tcp:035586_0012_1005F5EDD2881078"/>
+<pb n="13" facs="unknown:035586_0012_1005F5EDD2881078"/>
 communication with them, until they could produce an ap<g ref="char:EOLhyphen"/>proved certificate of their abſence from thoſe places at leaſt 15 days previous thereto.</p>
                <p>Our number of dead on the 1ſt October was 43, and this was the greateſt number during the whole month. On the 18th it was reduced to 16, and on the 21ſt it only a<g ref="char:EOLhyphen"/>mounted to 9. After this, the number of deaths on any one day during the exiſtence of the calamity, did not ex<g ref="char:EOLhyphen"/>ceed 15, and it is certain that had our abſent citizens at<g ref="char:EOLhyphen"/>tended to the advice of the Health-Committee, as pub<g ref="char:EOLhyphen"/>liſhed in the different newſpapers about this time, diſſuad<g ref="char:EOLhyphen"/>ing them from a premature return, the death warrant of the diſorder might have been dated from about this day; but it is greatly to be regretted, that numbers of our valuable citizens, by not attending to this admonition, are now tenants of the grave, who, had they only remain<g ref="char:EOLhyphen"/>ed till after the froſt, which took place in the latter end of October and beginning of November, might have now, very probably, been in good health. The whole number of funerals for October, was five hundred and twenty two, two hundred and nine of whom were men, one hundred and fifty eight women, and ſeventy four children. Of theſe four hundred and thirty one died of fever. The average of the deaths, during this month, was about 17. On the 10th November, the deaths were only <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
@@ -240,7 +240,7 @@ communication with them, until they could produce an ap<g ref="char:EOLhyphen"/>
                <p>"The Health-Committee for the relief of the ſick and indigent in the city of New-York, beg leave to congratu<g ref="char:EOLhyphen"/>late their fellow-citizens, that under Divine Providence, this long afflicted city is once more reſtored to its uſual ſtate of general health, and with the moſt heartfelt plea<g ref="char:EOLhyphen"/>ſure inform thoſe who yet remain in exile, that although a few caſes of the peſtilential fever exiſts, yet that by the late cold weather and froſt, the contagion is ſo far deſtroy<g ref="char:EOLhyphen"/>ed as to <gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap>ender the return of their families to the city per<g ref="char:EOLhyphen"/>fectly ſafe, provided they take the neceſſary previous mea<g ref="char:EOLhyphen"/>ſures of cleanſing and ventilating their long unaired dwel<g ref="char:EOLhyphen"/>lings,
-<pb n="14" facs="tcp:035586_0013_1005F5F00ABFD4C0"/>
+<pb n="14" facs="unknown:035586_0013_1005F5F00ABFD4C0"/>
 and purifying the bedding and clothing which may have been left therein during the prevalence of the fever.</p>
                <p>It would have afforded the Committee much ſatisfaction could they have given this invitation at an earlier period, but they did not conceive themſelves warranted by the then exiſting circumſtances. There have, until the preſent moment, been ſeveral new caſes of fever, particularly a<g ref="char:EOLhyphen"/>mong thoſe citizens who returned earlier than the Com<g ref="char:EOLhyphen"/>mittee thought prudent; many of whom have fallen vict<g ref="char:EOLhyphen"/>ims <gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
@@ -251,7 +251,7 @@ and purifying the bedding and clothing which may have been left therein during t
                      <desc>•</desc>
                   </gap>t the city.</p>
                <p>An opinion prevailed with many, that the progreſs of the diſeaſe varied according to the ſtate of the atmoſphere. To this I have paid ſome attention; but have not been able to aſcertain that the opinion is correct. My readers, however, by comparing the table of Meteorological Ob<g ref="char:EOLhyphen"/>ſervations with that which contains the daily returns of the dead, will be able to ſatisfy themſelves in this particular. But, however doubtful I may be with reſpect to the above obſervations in general, I am certain, that cool mornings and evenings, accompanied by hot days, contributed great<g ref="char:EOLhyphen"/>ly to ſpread the infection; that in caſe of a yellow fever, it is dangerous for thoſe who have fled to return to their homes till froſt has ſet in; and that a keen froſt undoubt<g ref="char:EOLhyphen"/>edly
-<pb n="15" facs="tcp:035586_0014_1005F5F1979C0D58"/>
+<pb n="15" facs="unknown:035586_0014_1005F5F1979C0D58"/>
 puts an almoſt inſtantaneous termination to the pro<g ref="char:EOLhyphen"/>greſs of the diſorder.</p>
                <p>Having thus given an account of the riſe, progreſs, and decline of the late fever, I ſhall next lay before my readers, two communications with which I have been politely favoured, with reſpect to its origin &amp;c.</p>
                <p>The firſt is from <hi>Doctor Samuel L. Mitchell, Profeſſor of Natural Hiſtory, Agriculture, and Chemiſtry in Colum<g ref="char:EOLhyphen"/>bia College,</hi> a gentleman whoſe literary talents are not only celebrated in America, but likewiſe in every part of civil<g ref="char:EOLhyphen"/>ized Europe. His opinion is contained in a letter ad<g ref="char:EOLhyphen"/>dreſſed to me, in anſwer to one which I had written to him on the 23d of November laſt, and is as follows.—</p>
@@ -264,24 +264,24 @@ puts an almoſt inſtantaneous termination to the pro<g ref="char:EOLhyphen"/>gr
                      </opener>
                      <p>IN your letter of yeſterday, you requeſt me to furniſh you with ſuch hints as may occur to me concerning the origin of the diſtemper, which, during the laſt three months, has afflicted the city of New-York. I with pleaſure com<g ref="char:EOLhyphen"/>municate to you on this point, ſuch general ideas, as in<g ref="char:EOLhyphen"/>ſtant recollection ſupplies me with. The great diſpute which divides the citizens of the United States, whether this diſtemper is produced at home, or introduced from abroad, appears to me to be more of a ſpeculative than of a practical nature. The experience of the inhabitants of ancient Rome, London, and indeed of moſt large and populous cities in Europe and Aſia, have in the progreſs of their ſettlement, ſuffered exceſſively from mortal epe<g ref="char:EOLhyphen"/>demics, Baſsorah has more than once been nearly depo<g ref="char:EOLhyphen"/>pulated, and other great cities of the eaſtern world, have from time to time, experienced a ſimilar diſaſter. It is ſufficiently evident to me that the production and con<g ref="char:EOLhyphen"/>tinuance of theſe plagues are owing to an imperfect and wretched police; and I judge ſo becauſe in all ſituations naturally healthy, where ſickneſs of that kind has prevailed, it has been in all caſes mitigated, and in many almoſt en<g ref="char:EOLhyphen"/>tirely prevented, by the adoption of proper local regula<g ref="char:EOLhyphen"/>tions. I think the experience of mankind is deciſive on this point.</p>
                      <p>
-                        <pb n="16" facs="tcp:035586_0015_1005F5F41F7BF790"/>
+                        <pb n="16" facs="unknown:035586_0015_1005F5F41F7BF790"/>
 New-York, and ſome other cities and towns of North America, are beginning to ſuffer what other cities and town<gap reason="illegible" resp="#AELD" extent="1 letter">
                            <desc>•</desc>
                         </gap> in ancient and modern times have undergone before them. In this country we have as yet loſt only our thouſands, but in Europe and Aſia, they have loſt their tens of thouſands, and hundreds of thouſands. A fate as ſevere as theirs awaits us, if we refuſe to profit their experience. It is wiſer and better to undertake reformation at once, than by waiting fifty, or an hundred, or five hundred years, with ſuch decay of induſtry and deſtruction of life, as has been lately our lot, and after all be compelled to execute at laſt, that which is both our intereſt and our duty to perform without a moments delay.</p>
                      <p>I conſider cleanlineſs in our perſons, clothing and habita<g ref="char:EOLhyphen"/>tions, to be a matter of moral obligation; and the puniſh<g ref="char:EOLhyphen"/>ment which providence has wiſely thought proper to in<g ref="char:EOLhyphen"/>flict upon thoſe who violate this law is ſickneſs, not un<g ref="char:EOLhyphen"/>frequently terminating in yellow-fever, peſtilence and plague.</p>
                      <p>There is a vulgar ſaying which I have often heard <hi>"never mind it, one's one naſtineſs is ſweet."</hi> It is certain that individuals endure patiently or even with<g ref="char:EOLhyphen"/>out adverting to it, more of their <hi>own dirt</hi> than of <hi>other peoples'</hi> Mankind in almoſt all places appear to have acted for a long time under the influence of this pernici<g ref="char:EOLhyphen"/>ous error; and accordingly when diſtempers have broken out in conſequence of their own careleſſneſs and indiſcre<g ref="char:EOLhyphen"/>tion, they have been fond of laying the blame on others. Hence it has been aſſerted with the utmoſt poſitiveneſs that the yellow-fever has been imported from the Weſt-Indies, and plague from the Levant, while at the very time theſe aſſertions are ſo confidently made by ſome among us, the fact of local origin in thoſe very places and countries is flatly denied by the people who dwell there. They like our own countrymen "think their own naſtineſs ſweet," and cannot be perſuaded it has any thing unhealthy or noxious in it.</p>
                      <p>But let us be candid and examine the ſubject fairly: If an army of ten thouſand or any other number of men is encamped long in one ſpot of ground, it often happens that fevers and dyſenteries break out among the ſoldiers; the number of men fit for parade hourly diminiſhes, and
-<pb n="17" facs="tcp:035586_0016_1005F5F7FA6CE0F0"/>
+<pb n="17" facs="unknown:035586_0016_1005F5F7FA6CE0F0"/>
 the Hoſpitals are crouded with the ſick. There can be no queſtion that in ſuch caſes the cauſes of thoſe diſtem<g ref="char:EOLhyphen"/>pers are engendered there. Every prudent general knows the way to ſtop the ravages of the diſeaſe is to quit the in<g ref="char:EOLhyphen"/>fected ſpot, and encamp upon a new and freſh piece of ground. And this ought always to be attended to in cam<g ref="char:EOLhyphen"/>paigns, where the nature of the ſervice will permit. In this caſe the men move away and leave the nuiſances be<g ref="char:EOLhyphen"/>hind.</p>
                      <p>What now is a modern city but a vaſt encampment? Are not the ſame cauſes of diſeaſe, daily and hourly accu<g ref="char:EOLhyphen"/>mulating? Ought it to be a matter of ſurprize, that during a moiſt and hot ſeaſon venom ſhould be produced, riſe into the air, and render it too foul and poiſonous to ſup<g ref="char:EOLhyphen"/>port life? If it was poſſible to abandon the contaminated place, and change our ground, as a general changes his camp, the inhabitants of cities would eſcape diſeaſes as well provided armies do. But ſeats of commerce, trade and manufacture, are deſtined to be the <hi>perpetual</hi> reſidence of perſons engaged in certain kinds of buſineſs, who cannot, without irreparable loſs and ruin, quit their improvements and occupations. There is a neceſſity, therefore, as they cannot move away from their nuiſances, THAT THEIR NUISANCES SHOULD BE MOVED AWAY FROM THEM. Both common ſenſe and common decency de<g ref="char:EOLhyphen"/>mand the performance of this.</p>
                      <p>To be a little more particular: If my information is correct, the exhalations from privies and ſinks in many parts of this city, have become not only intolerably of<g ref="char:EOLhyphen"/>fenſive, but actually peſtilential, and the cauſe of diſeaſe. The vapours iſſuing from barrels of putrifying beef have poiſoned a number of our citizens. Many ſtores, yards and cellars abound with ſubſtances equally detrimental to health; and in addition to this, it deſerves to be men<g ref="char:EOLhyphen"/>tioned that human carcaſes, buried and accumulated for a long ſeries of years, have poiſoned the air in many parts of chriſtendom, and that by the concurrence of both mu<g ref="char:EOLhyphen"/>nicipal and ſpiritual authority, the practice of interring in cities and church-yards, has been abſolutely prohibited in many parts of Italy, on account of the horrid miſchie<gap reason="illegible" resp="#AELD" extent="1 letter">
                            <desc>•</desc>
                         </gap>s occaſioned thereby. Although the evil has not grown to ſuch an alarming height among ourſelves at this day,
-<pb n="18" facs="tcp:035586_0017_1005F5F98DB4F110"/>
+<pb n="18" facs="unknown:035586_0017_1005F5F98DB4F110"/>
 yet it is certainly worthy of conſideration, whether it would not be better at once for chriſtians to diſcard the ſuper<g ref="char:EOLhyphen"/>ſtition which leads to this practice, and imitate the Jews and Mahometans in conveying their carrion entirely out of town and burying it in places remote from the habita<g ref="char:EOLhyphen"/>tions of the living. A regard for the preſervation of po<g ref="char:EOLhyphen"/>ſterity, as well as our own preſent and perſonal ſecurity, impoſes on us the adoption of ſome deciſive meaſures upon this head.</p>
                      <p>So much for local origin in and about the habitations of men <hi>on ſhore.</hi> See next how the queſtion ſtands with reſpect to <hi>importation.</hi> It is acknowledged, as has been obſerved, that cities, camps and houſes, may become pe<g ref="char:EOLhyphen"/>ſtilential and unſafe to dwell in, by reaſon of poiſonous matter bred within them. Now, what is a ſhip but <hi>a houſe a-float?</hi> Every ſea-veſſel is, properly ſpeaking, a <hi>human habitation.</hi> And in this houſe or habitation are frequently collected all the materials which are known to produce peſtilence on the land. Human beings, too of<g ref="char:EOLhyphen"/>ten neglectful of cleanlineſs during health, and in times of ſickneſs frequently wallowing in their own filthineſs, are the tenants of theſe floating houſes; and they are ſome<g ref="char:EOLhyphen"/>times ſurrouded by the ſickening exhalations emitted from damaged proviſions, hides, coffee, and whatever elſe compoſes their cargo, rendered active by moiſture, quick<g ref="char:EOLhyphen"/>ened by heat, and multiplied by being kept under hatches.</p>
                      <p>Of all the contrivances of art, a ſhip ſeems the moſt completely calculated to concentre &amp; work up to the higheſt degree of virulence, all manner of plague-producing things. The hiſtory of expeditions both for war and commerce, by ſea, furniſhes abundant evidence of this truth. Im<g ref="char:EOLhyphen"/>portation then ſtands thus; the ſickneſs of the crew may be cauſed by peſtilential fluids, and theſe fluids are extri<g ref="char:EOLhyphen"/>cated from foul and corrupt ſubſtances <hi>on board the veſſel,</hi> and is as much local in its origin THERE as in any place that can be pointed out in this or any other city. Fur<g ref="char:EOLhyphen"/>ther, I have it on the information of reſpectable maſters of veſſels, that in numberleſs inſtances the men fall ſick ON BOARD, not only at ſea, but in foreign ports and har<g ref="char:EOLhyphen"/>bours without ever having been on ſhore, or having con<g ref="char:EOLhyphen"/>nection with any perſon or thing that had come from the ſhore. And what adds to the concluſiveneſs of this ſtate<g ref="char:EOLhyphen"/>ment
-<pb n="19" facs="tcp:035586_0018_1005F5FC2E6C9138"/>
+<pb n="19" facs="unknown:035586_0018_1005F5FC2E6C9138"/>
 is, that when the men get ſick on board, the cuſtom in a number of the Weſt-India iſlands, is to ſend them on ſhore to recover their health.</p>
                      <p>If then, by IMPORTATION, is meant the <hi>taking on board the ſeeds of Yellow-Fever,</hi> and conveying them like grains of coffee or rice (for this is the language) from one region to another, the whole doctrine is indiſputably fal<g ref="char:EOLhyphen"/>lacious, being grounded on nothing better than a ſuppoſ<g ref="char:EOLhyphen"/>ed analogy between things exceedingly different in nature from each other, and, on a miſrepreſentation of facts which has, alas! too generally and too long been countenanced by phyſicians and merchants of the higheſt character.</p>
                      <p>My other engagements prevent my adding any more. The contents of this letter are written with my own hand; and if there was any body now with me to whom I might dictate, I could eaſily add a few paragraphs on <hi>pre<g ref="char:EOLhyphen"/>vention.</hi> This, however, muſt make a part of a public report on that ſubject, in which I am engaged, with ſeve<g ref="char:EOLhyphen"/>ral gentlemen of learning, experience, and reſpectability. In the mean time, be aſſured, that no perſon wiſhes great<g ref="char:EOLhyphen"/>er ſucceſs to your labours, for the good of our fellow-citizens, than</p>
@@ -292,7 +292,7 @@ is, that when the men get ſick on board, the cuſtom in a number of the Weſt-I
                   </body>
                </floatingText>
                <p>The ſecond communication I received in a letter from Mr. Richardſon Underhill, a reſpectable merchant of this city, on the 30th December, in anſwer to one which I had written to him, on the 23d of the ſame month. This Gentleman is indeed no regular bred phyſician; but as from motives of humanity, he had been very attentive to the diſtreſſes of the ſick, during the calamity of the year 1795, and being a perſon of obſervation, he ſoon became acquainted with that mode of treatment; which was moſt conducive to their recovery. Upon the commencement of the fever of 1798, being again actuated by the moſt philanthropic principles, he embarked in the ſame hazard<g ref="char:EOLhyphen"/>ous buſineſs, and was the happy means of mitigating the ſorrows of many of the afflicted. To theſe he not only preſcribed; but alſo aſſiſted in adminiſtering ſuch medi<g ref="char:EOLhyphen"/>cines
-<pb n="20" facs="tcp:035586_0019_1005F5FDCE9F7FF0"/>
+<pb n="20" facs="unknown:035586_0019_1005F5FDCE9F7FF0"/>
 as were deemed proper. He likewiſe took care, that all thoſe whom he ſaw in want, ſhould by ſome means or other be relieved. A conduct like his, is above eulo<g ref="char:EOLhyphen"/>gium. The poor and needy, whoſe wants were ſupplied and whoſe diſeaſes were cured by his means will no doubt think, as long as they live, of their benefactor with gra<g ref="char:EOLhyphen"/>titude.</p>
                <p>The communication with which Mr. Underhill, has fa<g ref="char:EOLhyphen"/>voured me, appears to me, to be intereſting and as I am convinced it will be conſidered in the ſame manner by moſt of my readers, I ſhall lay it before them without fur<g ref="char:EOLhyphen"/>ther apology.</p>
                <floatingText type="letter">
@@ -304,7 +304,7 @@ as were deemed proper. He likewiſe took care, that all thoſe whom he ſaw in w
                      </opener>
                      <p>THY favor of the 23d. inſt. I have the pleaſure of ac<g ref="char:EOLhyphen"/>knowledging. In this thou aſkeſt my opinion, reſpecting the origin of the diſorder, to which ſo many of our citi<g ref="char:EOLhyphen"/>zens have recently become victims; the method of cure purſued by me, and my opinion, what ſhould be done by the proper authority, to prevent a return of this terrible peſtilence.</p>
                      <p>In a mind, void of prejudice, it is more difficult, per<g ref="char:EOLhyphen"/>haps, to form an exact opinion of the origin of this diſor<g ref="char:EOLhyphen"/>der, than moſt people, upon a tranſient view of the ſub<g ref="char:EOLhyphen"/>ject, would ſuppoſe; for my own part, neither my educa<g ref="char:EOLhyphen"/>tion, nor my inclination, will permit me to form any theo<g ref="char:EOLhyphen"/>ries, concerning the firſt engendering of peſtilence, from combinations of gazes, or other cauſes. The dens, in which it is bred, and in which it lurks, until it iſſues forth to ſeize its prey, are more proper objects for perſons in my ſphere of life to enquire out and explore. To this purpoſe I have frequently revolved in my mind, whether it was an imported or homebred diſorder, ſeveral circum<g ref="char:EOLhyphen"/>ſtances concurring to produce an opinion of its being the latter. The rapid progreſs of it during one of the hoteſt ſummers we have ever experienced, juſt after a very heavy fall of rain, which ſtagnated in almoſt an innumerable number of cellars and back yards; the malignancy of it
-<pb n="21" facs="tcp:035586_0020_1005F601ADDDA748"/>
+<pb n="21" facs="unknown:035586_0020_1005F601ADDDA748"/>
 in the neighbourhood of ſome of thoſe cellars, many of them ſtowed with large quantities of putrid beef; in the neighbourhood of filthy ſewers, or other nuiſances, and, alſo, from its ſpreading on Golden-hill and Cliff-ſtreet, which are in a northerly direction from ſome of thoſe dens of peſtilence I have juſt mentioned, and of courſe liable to be acted upon by the prevailing ſouth winds. But how<g ref="char:EOLhyphen"/>ever well founded this opinion may be, with reſpect to the agency of thoſe things, in producing the diſeaſe, yet with all theſe, other facts, which I will relate, has almoſt in<g ref="char:EOLhyphen"/>duced me to believe, that all is not to be charged to them. They rendered the neighbourhood highly combuſtible, but perhaps a<gap reason="illegible" resp="#AELD" extent="1 letter">
                            <desc>•</desc>
                         </gap> ſpark of contagion might be neceſſary to pro<g ref="char:EOLhyphen"/>duce ſo dreadful a conflagration. The firſt appearance of the diſorder was in Front-ſtreet, near Coenties-ſlip, where Melancton Smith died, about the 28th, or 29th of July, and on the 30th Peter A. Schenk was taken ſeverely ſick. The following week, one Wilſon, M. Smith. jun. Peter Duſtan and wife, and A Adriance, had ſlight attacks, from whence it ſpread to other families in a very ſhort time.<note n="*" place="bottom">The people of this neighbourhood laid the blame of their ſickneſs to the ſchooner Fox, which arrived from Jeremie between the middle and latter part of July, and hawled to a wharf a little caſt of Coenties-ſlip, where ſhe unloaded, and upon pumping her out, her bilge-water was very offenſive; but I think the filth to be obſerved in this part of the <gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -312,9 +312,9 @@ in the neighbourhood of ſome of thoſe cellars, many of them ſtowed with large
                            </gap>own, quite as likely to give them fever as bilge-water and molaſſes.</note>
                      </p>
                      <p>The next appearance of the fever was at the houſe of Henry Mead, at the lower corner on the weſt ſide of the New-ſlip. Some time in July, the ſhip Fame, ſaid to have arrived from ſome one of the Weſt-India iſlands, came to the wharf next below the New-ſlip, and lay there ſome time. About the 3d or 4th of Auguſt, ſome people went to diſcharging the ballaſt and pumping her out; a<g ref="char:EOLhyphen"/>mong the ballaſt was a quantity of damaged coffee, ex<g ref="char:EOLhyphen"/>tremely putrid, which, with the water diſcharged from the pump, was ſo offenſive to the ſmell, that the neighbours were induced to ſhut their windows, eſpecially while eat<g ref="char:EOLhyphen"/>ing. About the 6th of ſaid month, the following perſons ſpent a conſiderable part of the day at Mead's houſe, John Taylor, Ebenezer Taylor, Sylvanus Seaman, Monmouth Hubbs, Walter Davis, Auguſtus Peck, and a young man, clerk in a ſtore near the exchange: Moſt of theſe
-<pb n="22" facs="tcp:035586_0021_1005F603F501DEB8"/>
+<pb n="22" facs="unknown:035586_0021_1005F603F501DEB8"/>
 dined there, and during their dinner, they were under the neceſſity of ſhutting up their doors and windows, though the weather was very warm, ſo exceedingly were they an<g ref="char:EOLhyphen"/>noyed by the ſtench from the ſhip. Of this company, collected from ſeveral quarters, and who diſperſed to their reſpective homes, not a ſingle one eſcaped ſevere ſick<g ref="char:EOLhyphen"/>neſs, which they were taken with in from 4 to 5 days, and of which John and Ebenezer Taylor died. Two perſons belonging to the family were alſo ſick. The next houſe above this, (there being none below it) was at the ſame time viſited, and of 5 perſons, three were taken danger<g ref="char:EOLhyphen"/>ouſly ill and 2 died: In the ſecond houſe above, 3 more perſons were ſick at the ſame time, and 1 died; and the family of the houſe next to this, ſhared a ſimilar fate, 3 were ſick, two of whom died in a very ſhort time. Many of the boatmen, whoſe veſſels lay in the ſlip at this period, fared no better, a number of them being victims to this ſtench, or the contagion it produced. On the eaſt ſide of the ſlip, the inhabitants at this time were as healthy as uſual for the ſeaſon; but in the neighbourhood northerly, the diſorder ſpread with great rapidity; ſcarcely a family eſcaped ſevere ſickneſs for ſome diſtance in that direction: it is to be obſerved that the wind was wholly ſoutherly.—Nathaniel Clark, who lives in Cherry-ſtreet, in this neigh<g ref="char:EOLhyphen"/>bourhood, was on the wharf where this ſhip lay, and went home to his family, complained much of the ſtench he had ſmelt there, and in 3 or 4 days was taken with the fever, which he had ſeverely: Several of his family ſicken<g ref="char:EOLhyphen"/>ed ſhortly after. From theſe facts it appears that the ſick<g ref="char:EOLhyphen"/>neſs in this quarter was cauſed by the ſhip; whether it was created in her, or brought from another country, I cannot undertake to determine; but be it as it may, the fever was undoubtedly there contagious; and ſpread to diſtant parts of the town by means of the ſick; the bodies of the inha<g ref="char:EOLhyphen"/>bitants having (as I ſuppoſe) been rendered ripe for its re<g ref="char:EOLhyphen"/>ception. From here I can trace it to the neighbourhood of Golden-hill, where a man named Harper, died in Gold-ſtreet on the 11th of Auguſt. One Fowler died the 18th of ſame month in John-ſtreet; and the 3d victim was So<g ref="char:EOLhyphen"/>lomon Carl, who died on the 20th, in Gold-ſtreet. Har<g ref="char:EOLhyphen"/>per imputed the origin of his ſickneſs to his having croſſed the deck of the ſhip beforementioned three days before he
-<pb n="23" facs="tcp:035586_0022_1005EBE1A981DEA8"/>
+<pb n="23" facs="unknown:035586_0022_1005EBE1A981DEA8"/>
 was taken; a reſpectable merchant was with him, who has ſince told me they were offended with a very diſagreeable ſmell. Solomon Carl was at the funeral of a woman na<g ref="char:EOLhyphen"/>med Jones, who had died in the neighbourhood of the New-Slip, about 3 days before he ſickened himſelf.</p>
                      <p>The methods I purſued to cure the diſorder were gene<g ref="char:EOLhyphen"/>rally very ſimple, ſuch as were dictated by nature, and a ſmall ſhare of experience I had in the year 1795. I en<g ref="char:EOLhyphen"/>deavoured always to purge the patient, bring on a gentle perſpiration and continue it, which treatment of itſelf I may ſay cured hundreds; the medicines I ſelected to bring about thoſe ends, were ſuch as I deemed mildeſt and moſt efficacious in their operation: for the firſt purpoſe I uſed caſtor oil, and for the other, warm teas of cat-nip or balm; In obſtinate caſes, or caſes attended with delirium, I uſed hot applications of aſhes, bricks, &amp;c. wet with vi<g ref="char:EOLhyphen"/>negar and ſpirits, and if I could raiſe a perſpiration a cure generally enſued, particularly among middle aged perſons of good conſtitutions. Thoſe were the methods moſt uſed, tho' I found it neceſſary to var<gap reason="illegible" resp="#AELD" extent="1 letter">
                            <desc>•</desc>
@@ -330,7 +330,7 @@ was taken; a reſpectable merchant was with him, who has ſince told me they wer
                         </gap> damp cellars in hot weather, for when they are not abſo<g ref="char:EOLhyphen"/>lutely ſpoiled, their pickle ſometimes ſmells very offen<g ref="char:EOLhyphen"/>ſive, and I judge all air to be noxious that offends my n<gap reason="illegible" resp="#AELD" extent="1 letter">
                            <desc>•</desc>
                         </gap>ſe, at leaſt, I know of no rule of judging which admits of fewer exceptions; to fill up the common ſewers where practicable and let the filth which they are intended to hide appear to the eye in all its deformity, which will
-<pb n="24" facs="tcp:035586_0023_1005F60787879108"/>
+<pb n="24" facs="unknown:035586_0023_1005F60787879108"/>
 inſure a more ſpeedy removal; where they cannot be fil<g ref="char:EOLhyphen"/>led <gap reason="illegible" resp="#AELD" extent="1 letter">
                            <desc>•</desc>
                         </gap>p with propriety from the particular ſituation of the ground (if any ſuch ſituation exiſt) let lime be frequently put in them; to prevent veſſels which may arrive from warm climates during certain months in the year from coming to the city at all, until they have landed their car<g ref="char:EOLhyphen"/>goes at ſome convenie<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -345,7 +345,7 @@ inſure a more ſpeedy removal; where they cannot be fil<g ref="char:EOLhyphen"/
                   </body>
                </floatingText>
                <p>
-                  <pb n="25" facs="tcp:035586_0024_1005F60B7465AE58"/>
+                  <pb n="25" facs="unknown:035586_0024_1005F60B7465AE58"/>
 The prevalence of the fever in New-York, is accounted for as follows, in the Philadelphia Gazette of the 4th inſt. under the New-York head:</p>
                <q>
                   <floatingText xml:lang="unk">
@@ -361,14 +361,14 @@ The prevalence of the fever in New-York, is accounted for as follows, in the Phi
                            <p>In the neighbourhood of the New-ſlip, where the build<g ref="char:EOLhyphen"/>ings for the moſt part are ſmall, and many of them inhabi<g ref="char:EOLhyphen"/>ted by poor people, who live in a crouded manner, and in ſituations incapable of proper ventilation, diſeaſes oc<g ref="char:EOLhyphen"/>curred about the 12th—a number of perſons died—but at preſent there appears to be no great cauſe of alarm in that quarter.</p>
                            <p>"About the ſame period, or a little later, two or three perſons were ſeized at Bruce's wharf, with ſuſpicious ſymptoms, and ſome deaths have taken place there and in its vicinity, owing, it is generally thought, to the ex<g ref="char:EOLhyphen"/>tremely foul condition of Bruce and Marſton's unfilled lots, bounding on the Eaſt-river, at the foot of Pine-ſtreet the effluvia iſſuing from them being highly putrid and of<g ref="char:EOLhyphen"/>fenſive. Meaſures have been taken, and are now in ope<g ref="char:EOLhyphen"/>ration, to cover them with wholeſome earth, by which means it is hoped the evil in that quarter, if it has ariſen from this ſource, may be corrected.</p>
                            <p>
-                              <pb n="26" facs="tcp:035586_0025_1005F60D0649F858"/>
+                              <pb n="26" facs="unknown:035586_0025_1005F60D0649F858"/>
 "About the 20th, ſeveral perſons were ſeized in Cliff-ſtreet, nearly in the ſame manner as thoſe between Coen<g ref="char:EOLhyphen"/>ties-ſlip and the Old-ſlip. At firſt they generally conſider<g ref="char:EOLhyphen"/>ed their complaints to be mere colds taken by ſleeping with open windows in the violent hot weather which then prevailed—Unfortunately, it was a more ſerious caſe. The patients rapidly grew worſe, and ſeveral died as well there as in John, Gold and Rider-ſtreets, and Eden's-Al<g ref="char:EOLhyphen"/>lies, all lying within the vicinity of Burling-ſlip ſewer. Theſe complaints, on inveſtigation, were thought to pro<g ref="char:EOLhyphen"/>ceed, in part, from the offenſive ſtate of that ſewer; which had, for ſome time, become a receptacle for vari<g ref="char:EOLhyphen"/>ous ſpecies of putrid matter, and of which the mouth lies nearly oppoſite John-ſtreet, commonly called Golden-hill ſtreet—ſo that whenever a South or S. E. wind prevailed, it blew through the ſewer, and bore a column of effluvia up John-ſtreet, and through that into Cliff and the adja<g ref="char:EOLhyphen"/>cent ſtreets, rendering the atmoſphere intolerably bad. The beſt informed phyſicians are of this opinion. The head of the ſewer has ſince been cloſed by a valve-door, and a conſiderable quantity of quick-lime thrown into it, with a view of neutralizing its contents. A ſimilar door, with the ſame intention, has been added to the Ferry-ſtreet ſewer.</p>
                            <p>"Other cauſes are alſo alledged, and with great plau<g ref="char:EOLhyphen"/>ſibility, at leaſt, if not certainty.</p>
                            <p>"It is well known that the ceſſation of our commer<g ref="char:EOLhyphen"/>cial intercourſe with the French iſlands, in conſequence of their hoſtile violence, has greatly leſſened the demand for proviſions; of courſe large quantities of bee<gap reason="illegible" resp="#AELD" extent="1 letter">
                                  <desc>•</desc>
                               </gap> remain<g ref="char:EOLhyphen"/>ed in many cellars, particularly among the merchants of Pearl-ſtreet. Much of this, from what is now ſeen to be an improper mode of packing, as directed by a late law, has lately become tainted, emitted a very putrid effluvi<g ref="char:EOLhyphen"/>um—corrupting the air and contributing its ſhare as a cauſe of diſeaſe. We learn that the commiſſioners of the health-office have taken meaſures to have it all inſpected, and the ſpoiled removed out of town. Much already has been ſent away, and the remainder is going as faſt as poſ<g ref="char:EOLhyphen"/>ſible.</p>
                            <p>"Theſe cauſes, with the immenſe fall of rain, and vi<g ref="char:EOLhyphen"/>olent heats, experienced in the courſe of Auguſt, are ſup<g ref="char:EOLhyphen"/>poſed
-<pb n="27" facs="tcp:035586_0026_1005F60E94865948"/>
+<pb n="27" facs="unknown:035586_0026_1005F60E94865948"/>
 to have originated the diſeaſe which has ſpread ſuch panic as to drive many families into the country.</p>
                            <p>"On the moſt diligent enquiry, however, we cannot find out, that any great ſubject of alarm exiſts, except in the neighbourhood of the New-ſlip—in the vicinity of Burling-ſlip-ſewer—and at the foot of Pine-ſtreet, at which places ſeveral perſons have died.</p>
                            <p>"Individual caſes have alſo occurred in other parts of the town, but, as in 1795, they remain inſulated, and without communication to the attendants, as far as we can diſcover. Theſe, it is generally thought, were taken at one or the other places before mentioned.</p>
@@ -383,7 +383,7 @@ to have originated the diſeaſe which has ſpread ſuch panic as to drive many 
                   </floatingText>
                </q>
                <p>
-                  <pb n="28" facs="tcp:035586_0027_1005F6112AAF8938"/>
+                  <pb n="28" facs="unknown:035586_0027_1005F6112AAF8938"/>
 To theſe opinions I ſhall add another, which my readers, will no doubt, conſider as being very reſpectable; I mean that of our Health-Officer, Doctor Bayley. I have extracted what follows from a late very intereſt<g ref="char:EOLhyphen"/>ing publication of his, entitled, <hi>"Letters from the Health Office to the Common Council."</hi>
                </p>
                <floatingText type="letter">
@@ -399,7 +399,7 @@ To theſe opinions I ſhall add another, which my readers, will no doubt, conſi
                      <p>In 1797 between Coenties and the Old-ſlip, in Front-ſtreet, at the Fly-market in ſeveral inſtances, in Fletcher-ſtreet, at Burling-ſlip, in Water-ſtreet, adjoining Rooſe<g ref="char:EOLhyphen"/>velt-ſtreet ſewer, in George-ſtreet, and at the foot of Pine-ſtreet.</p>
                      <p>In 1798 the diſeaſe firſt appeared about midway be<g ref="char:EOLhyphen"/>tween Coenties and the Old-ſlip, in Front-ſtreet, be<g ref="char:EOLhyphen"/>tween the 1ſt and 7th of Auguſt. On the 7th of Auguſt about twenty-three were reported ſick to the Health-Of<g ref="char:EOLhyphen"/>fice. From that period ſeveral others ſickened, and of the whole number one died. By the 26th of Auguſt, the com<g ref="char:EOLhyphen"/>plaint had diſappeared in that quarter in conſequence of the meaſures taken to remove the cauſe, by covering the offenſive lots with clean, wholeſome earth.</p>
                      <p>On the 12th of Auguſt, it appeared at No. 283, Water-ſtreet, in the caſe of Mr. Taylor, in an old broken build<g ref="char:EOLhyphen"/>ing,
-<pb n="29" facs="tcp:035586_0028_1005F61382A2D1E8"/>
+<pb n="29" facs="unknown:035586_0028_1005F61382A2D1E8"/>
 on an unfiniſhed lot at the foot of Dover-ſtreet, in which 11 perſons died early in 1795, and which has ſince been repeatedly repreſented as a nuiſance.</p>
                      <p>Auguſt 12, alſo, the diſeaſe appeared in the caſe of John Henderſon, corner of James-ſtreet, and Batavia-lane. On all ſides of his reſidence, which was a ſmall crowded build<g ref="char:EOLhyphen"/>ing, there were ſunken lots in an unfiniſhed ſtate.</p>
                      <p>Again, on Auguſt 12, the diſeaſe appeared in William Whitlock, Card-maker, No. 51, Cherry-ſtreet. In the rear and to the ſouth of his reſidence, the lots are very ge<g ref="char:EOLhyphen"/>nerally below the level of the ſtreets, and without drains.</p>
@@ -434,7 +434,7 @@ on an unfiniſhed lot at the foot of Dover-ſtreet, in which 11 perſons died ea
                         </item>
                      </list>
                      <p>
-                        <pb n="30" facs="tcp:035586_0029_1005F6168A2EB468"/>
+                        <pb n="30" facs="unknown:035586_0029_1005F6168A2EB468"/>
 On the morning of the 14th, the heavieſt rain fell of any time during the year. It began at 5 A. M. and continued without intermiſſion till nine. Numerous cellars, parti<g ref="char:EOLhyphen"/>cularly thoſe in the low parts of the city, were filled with water. Liſpenard's meadow, which may be conſidered as within the limits of the city was entirely overflowed. In ſix days it had not ſubſided above ten inches; and the wa<g ref="char:EOLhyphen"/>ter did not paſs off, till a large drain was opened for that purpoſe, by order of the Common Council.</p>
                      <p>After the immenſe fall of rain on the 14th, the Ther<g ref="char:EOLhyphen"/>mometer, which had fallen on that day to 78 roſe,</p>
                      <list>
@@ -446,7 +446,7 @@ On the morning of the 14th, the heavieſt rain fell of any time during the year.
                      <p>The ſudden and great increaſe of heat immediately after the violent rain, appeared to have a proportionately in<g ref="char:EOLhyphen"/>fluence in producing fever. Between that period and the 22d Auguſt, upwards of twenty perſons in Cliff-ſtreet, were ſeized with ſlight indiſpoſitions, which they attributed to ſleeping with open windows during the preceding hot and moiſt weather, but which appeared rather as the fore<g ref="char:EOLhyphen"/>runner of yellow fever, for, not only the perſons thus in<g ref="char:EOLhyphen"/>diſpoſed, but a number of others in the ſame ſtreet, had that diſeaſe in the courſe of a few days.</p>
                      <p>From this period the diſeaſe became more general; but its fatality was principally felt in Cliff-ſtreet and its neigh<g ref="char:EOLhyphen"/>bourhood, at Catherine ſlip, in Water-ſtreet and on the unfiniſhed grounds in the ſouthern part of the city.</p>
                      <p>Now having ſeen that the yellow fever had made its ap<g ref="char:EOLhyphen"/>pearance in New-York every year, for ſeveral years paſt, but has prevailed in very different degrees, it becomes a matter of great importance to determine, why the diſeaſe was ſo generally prevalent on the low new-made grounds in 1795, whilſt it was ſcarcely felt in the more elevated ſituations; why, in 1796, and 1797, its appearance was limited to particular ſpots; and why, in 1798 it not only prevailed
-<pb n="31" facs="tcp:035586_0030_1005F618D7C62E80"/>
+<pb n="31" facs="unknown:035586_0030_1005F618D7C62E80"/>
 on all the new-made grounds, but alſo in parts of the city which had before been exempted from the diſeaſe.</p>
                      <p>To anſwer theſe queſtions in ſuch a manner, as to prove ſatisfactory to every one, might be a very difficult taſk. I ſhall, however, offer ſome reaſons which may tend to ſhew why the fever was more prevalent this year, than in the preceding years.</p>
                      <p>It is well aſcertained that in the year 1795, there was an unuſual degree of heat and moiſture in the atmoſphere during the warmer months—that the Thermometer was conſiderably higher than in 1796 and 1797, but that in 1798, the heat greatly exceeded that of 1795.</p>
@@ -457,7 +457,7 @@ on all the new-made grounds, but alſo in parts of the city which had before bee
                            <desc>•</desc>
                         </gap>ever at Golden-hill and in Cliff-ſtreet, and the great number which ſickened nearly at the ſame time, there is great reaſon to believe this opinion well founded.</p>
                      <p>About the 20th of Auguſt, a report was made to the Health Office, that great quantities of ſpoiled beef were ſtored in Pearl-ſtreet, between Burling and Beekman-ſlips. The ſtench which iſſued from ſome of the cellars in this ſituation, was ſo conſiderable, as to prove very offenſive to thoſe who paſſed by, and became a ſubject of general ob<g ref="char:EOLhyphen"/>ſervation. Letters, in conſequence, from the Health-Office, were addreſſed to owners of proviſions in that quarter, en<g ref="char:EOLhyphen"/>joining them to have the beef examined, and to have ſuch as was ſpoiled, ſent out of the city. Inſtead, however, of adopting this plan, the beef was brought from the cellars into the ſtreet, the barrels opened, and the putrid pickle
-<pb n="32" facs="tcp:035586_0031_1005F61B387F8FE0"/>
+<pb n="32" facs="unknown:035586_0031_1005F61B387F8FE0"/>
 thrown into the gutters. In ſome inſtances the examina<g ref="char:EOLhyphen"/>tion was made in the cellars, and the pickle diſpoſed of in the ſame manner. The gutters which conveyed away this putrid pickle, led to Burling-<gap reason="illegible" resp="#AELD" extent="1 letter">
                            <desc>•</desc>
                         </gap>lip ſewer.</p>
@@ -472,7 +472,7 @@ thrown into the gutters. In ſome inſtances the examina<g ref="char:EOLhyphen"/
                      <p>In 1795 the weather was warm and moiſt, but there was but very little rain.</p>
                      <p>In 1798 the weather was not only much warmer, but was accompanied by ſudden and heavy rains.</p>
                      <p>Immediately after the rains the public papers teemed with addreſſes to the citizens, entreating them to empty their cellars of the water which had collected in them, or the moſt fatal effects would be felt from neglect, or inat<g ref="char:EOLhyphen"/>tention to this circumſtance. It is not my intention to diſpute the opinion advanced by theſe writers. But, if
-<pb n="33" facs="tcp:035586_0032_1005F61D8DF4D870"/>
+<pb n="33" facs="unknown:035586_0032_1005F61D8DF4D870"/>
 the production of diſeaſe, was to be apprehended from the lodgment of water in places where the ſun's rays never en<g ref="char:EOLhyphen"/>ter, what effects were to be expected from the ponding of water in thoſe numerous lots and yards within this city, which are ſeveral feet below the level of the ſtreets, con<g ref="char:EOLhyphen"/>taining dead animal and vegetable matters, and to which the rays of the ſun have full acceſs? I wiſh you, gentle<g ref="char:EOLhyphen"/>men, to reflect ſeriouſly upon this compariſon, and be<g ref="char:EOLhyphen"/>lieve, that whilſt thoſe ſunken, undrained lots are ſuffer<g ref="char:EOLhyphen"/>ed to remain in their preſent ſtate, unleſs cauſes ceaſe to produce their effects, diſeaſes muſt inevitably reſult.</p>
                      <p>On examining the records of the legiſlature of this ſtate, it will be found, that petitions have been preferred to that body, for permiſſion to erect mill-dams on certain ſtreams of water in ſome of the northern counties, and the prayer of the petitioners has been granted. The conſequence was, that conſiderable tracts of low grounds in the neigh-hood of the mill-dams, were overflowed in the ſpring, and after the water had paſſed off, and the ſurface of thoſe grounds were expoſed to the influence of the <gap reason="illegible" resp="#AELD" extent="1 letter">
                            <desc>•</desc>
@@ -480,7 +480,7 @@ the production of diſeaſe, was to be apprehended from the lodgment of water in
                      <p>Permit me, gentlemen, to aſk the following queſtions: If the reſult of exhalations ariſing from grounds which have been covered with water in an open country, has been the production of bilious remitting fevers, attended with conſiderable mortality, what reſult ought we to ex<g ref="char:EOLhyphen"/>pect from thoſe exhalations which ariſe from the ponding of water on 150 acres of low grounds and ſunken yards and lots in a crouded city, and of a ſouthern aſpect?</p>
                      <p>Before I conclude, I ſhall take the liberty of noticing ſome of the public meaſures that have been adopted for the removal of cauſes of diſeaſe in this city. I ſhall con<g ref="char:EOLhyphen"/>fine myſelf to two principal objects:</p>
                      <p>
-                        <pb n="34" facs="tcp:035586_0033_1005F61FD6291C68"/>
+                        <pb n="34" facs="unknown:035586_0033_1005F61FD6291C68"/>
                         <hi>Firſt.</hi> The want of a ſufficient deſcent on the low grounds along the eaſt-river, to carry off the waters from the ſtreets, is generally admitted. A conſiderable quan<g ref="char:EOLhyphen"/>tity of water muſt neceſſarily ſtagnate in the gutters of theſe ſtreets, and alſo in the ſunken pavement. In dry weather this lodgement conſiſts principally of water which has been uſed for culinary and other family purpoſes, and muſt therefore, be ſuppoſed to abound with matters to afford noxious exhalations.</p>
                      <p>By an ordinance of the Corporation for cleaning the ſtreets, the inhabitants are directed to ſcrape out the dirt and filth collected in the gutters, and heap them up in the ſtreets, to be removed by the ſcavengers <hi>in the courſe of the day.</hi>
                      </p>
@@ -496,7 +496,7 @@ the production of diſeaſe, was to be apprehended from the lodgment of water in
                   </body>
                </floatingText>
                <p>
-                  <pb n="35" facs="tcp:035586_0034_1005F62172A8F2C8"/>
+                  <pb n="35" facs="unknown:035586_0034_1005F62172A8F2C8"/>
 From the preceding ſtatements, it will appear to my readers, that the cauſe of the origin of this diſorder, is ſtill a matter of queſtion amongſt the learned; and that it is not as yet fully decided, whether the calamity, with which the cities of the United States have within theſe few years been repeatedly afflicted, has been imported, or that it is engendered in our own country. Several reaſons, how<g ref="char:EOLhyphen"/>ever, induce me to incline to the latter opinion.</p>
                <p>
                   <hi>Firſt.</hi> We are ſituated in the ſame latitude with thoſe places of the old world, where peſtilential diſorders annu<g ref="char:EOLhyphen"/>ally predominate. With thoſe places we are alike expoſ<g ref="char:EOLhyphen"/>ed during the ſummer months to the united effects of heat and moiſture, and from ſimilar cauſes ſimilar effects may be always expected.</p>
@@ -512,7 +512,7 @@ From the preceding ſtatements, it will appear to my readers, that the cauſe of
                   <body>
                      <head>Extract of a letter from Dr. Jonathan Elmer, of Bridge-town, New-Jerſey, to a Phyſician in Philadelphia, dated December 6.</head>
                      <p>"From many facts I am induced to believe (tho' very reluctantly) that there were caſes of the yellow-fever in this place during the laſt autumn, which originated on the ſpot, and that its propagation was occaſioned, or at leaſt
-<pb n="36" facs="tcp:035586_0035_1005F6241BF74D40"/>
+<pb n="36" facs="unknown:035586_0035_1005F6241BF74D40"/>
 promoted, by local infection, or generated in the place of its origination."</p>
                   </body>
                </floatingText>
@@ -523,13 +523,13 @@ promoted, by local infection, or generated in the place of its origination."</p>
                   </body>
                </floatingText>
                <p>I have already obſerved that our climate being the ſame with thoſe places in the old world, which are annually ex<g ref="char:EOLhyphen"/>poſed to peſtilential diſorders, we cannot expect to be en<g ref="char:EOLhyphen"/>tirely exempt from them. But at the ſame time I am fully perſuaded, that if we make uſe of thoſe means, which Divine Providence has put in our power, we have little to apprehend, on the ſcore of their return or ſpread<g ref="char:EOLhyphen"/>ing
-<pb n="37" facs="tcp:035586_0036_1005F625D9EB8F20"/>
+<pb n="37" facs="unknown:035586_0036_1005F625D9EB8F20"/>
 in this country. In Turkey where peſtilential diſor<g ref="char:EOLhyphen"/>ders are exceedingly prevalent, ſuch is the indolence of the inhabitants that little or no attempts are made to pre<g ref="char:EOLhyphen"/>vent their return or to ſtop their ravages: for to uſe the words of Mr. John Payne, in his excellent ſyſtem of Ge<g ref="char:EOLhyphen"/>ography, now publiſhing in this city, by John Low, Bookſeller, at the Shakeſpeare's Head, No. 332 Water ſtreet, "The doctrine of predeſtination and ſtill more the barbariſm of the government have hitherto prevented the Turks from attempting to guard againſt this deſtructive diſorder, (meaning the plague) <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> the ſucceſs however, of the precautions taken by the Franks, has of late began to make ſome impreſſions upon many of them. The Chriſtians of the country, who trade with European na<g ref="char:EOLhyphen"/>tions, would be diſpoſed to ſhut themſelves up like them; but this they cannot do without the authority of the Porte. It ſeems indeed, as if the Divan would at laſt pay ſome attention to this object, if it be true that an edict was iſſued in 1783, for the eſtabliſhment of a Lazaretto as Conſtantinople and three others at Smyrna, Candia, and Alexandria. The government of Tunis adopted this wiſe meaſure ſome years ago; but the Turkiſh police is every where ſo wretched, that little ſucceſs can be hoped from theſe eſtabliſhments notwithſtanding their extreme impor<g ref="char:EOLhyphen"/>tance and the ſafety of the Mediterranean ſtates."</p>
                <p>The above is the ſtate of peſtilential diſorders amongſt them; but ſurely with us it is widely different. Many of our citizens, indeed, believe in the doctrine of predeſti<g ref="char:EOLhyphen"/>nation as well as the Turks; but at the ſame time, almoſt every individual in caſe of any calamity, thinks it his du<g ref="char:EOLhyphen"/>ty to make uſe of thoſe means which Providence has put in his power, to avert it. Our police is likewiſe, by no means, wretched. Our magiſtrates, to whom the health of our citizens is confided, are men of intelligence, and when the ſources from which peſtilence ariſe in our cities is better underſtood, which from the meaſures lately taken, we may ſoon expect, there is little doubt, that our cities ſhall in a ſhort time be either wholly exempt from, or at leaſt partially viſited by the direful calamity of the yellow-fever.</p>
                <p>To prevent its return has not only been an object of deſirous enquiry with the magiſtrates of different cities,
-<pb n="38" facs="tcp:035586_0037_1005F629D9AA2CD8"/>
+<pb n="38" facs="unknown:035586_0037_1005F629D9AA2CD8"/>
 but alſo with our national government; for the Preſident of the United States, in his ſpeech on the opening of the laſt ſeſſion of Congreſs, thus addreſſed himſelf to the S<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap>
@@ -538,7 +538,7 @@ but alſo with our national government; for the Preſident of the United States,
                      <desc>〈◊〉</desc>
                   </gap> ports, and with increaſed malignancy, and when we conſider the magnitude of the evils ariſing from the interruption of public and private buſineſs, whereby the national intereſts are deeply affected; I think it my duty to invite the legiſlature of the union to examine the expediency of eſtabliſhing ſuitable regulati<g ref="char:EOLhyphen"/>ons in aid of the health laws of the reſpective ſtates; for theſe being formed on the idea that contagious ſickneſs may be communicated throughout the channels of com<g ref="char:EOLhyphen"/>merce, there ſeems to be a neceſſity, that Congreſs who alone can regulate trade, ſhould frame a ſyſtem which, while it may tend to preſerve the general health, may be compatible with the intereſts of commerce, and the ſafety of the revenue."</p>
                <p>The Governor of Pennſylvania, likewiſe in his addreſs to the legiſlature of that ſtate, recommends to their ſeri<g ref="char:EOLhyphen"/>ous conſideration, ſuch meaſures as he believed moſt likely to prevent a like viſitation as that of the autumns of 1793, 1797, and 1798; and I am happy to add, that the buſineſs will no doubt be taken up by the general go<g ref="char:EOLhyphen"/>vernment of the Union, as a committee was appointed to report on that part of the preſident's ſpeech, which reſpected this truly important ſubject. To this I may add that the Common Council of New York, anxious to guard our city againſt the return of peſtilence, addreſſed the Medical Society, ſoon after the decline of the diſor<g ref="char:EOLhyphen"/>der requeſting them to give their opinions with reſpect to its origin, beſt method of prevention, &amp;c. and that in
-<pb n="39" facs="tcp:035586_0038_1005F62C2AA557D8"/>
+<pb n="39" facs="unknown:035586_0038_1005F62C2AA557D8"/>
 conſequence the ſociety appointed a committee of their own body, conſiſting of Doctors Samuel L. Mitchell, James Tillary, and John B. Rodgers, to conſider the mat<g ref="char:EOLhyphen"/>ter, and to report accordingly. The literary talents of theſe gentlemen are well known, and their seal and anxi<g ref="char:EOLhyphen"/>ety to prevent the ſufferings of the diſtreſſed, will never be called in queſtion. We may, therefore, ſpeedily ex<g ref="char:EOLhyphen"/>pect, from their united efforts, a publication, which will be read by moſt of our citizens with the greateſt avidity; and which I have no doubt will be productive of the high<g ref="char:EOLhyphen"/>eſt utility.</p>
                <p>The ſituation of our fellow citizens in Philadelphia, was not very different from thoſe of New-York. What, there<g ref="char:EOLhyphen"/>fore, might be uſeful to prevent the return of the fever in one place, may be of equal utility in another. I ſhall, therefore, lay before my readers the opinion of the aca<g ref="char:EOLhyphen"/>demy of medicine of Philadelphia addreſſed to the go<g ref="char:EOLhyphen"/>vernor.</p>
             </div>
@@ -551,7 +551,7 @@ conſequence the ſociety appointed a committee of their own body, conſiſting 
                <p>We believe it was derived from the following ſources:</p>
                <p n="1">1. The exhalations of the alleys, gutters, docks, and common ſewers of the city; and from ſtagnating water in its neighborhood.</p>
                <p n="2">2. The foul air diſcharged with the ballaſt of the ſhip Deborah, and the cargo of the brig Mary: the former of which arrived from Hiſpaniola on the 18th of July, and the latter on the 29th of the ſame month. We reject the opinion of an imported human contagion in either of the above veſſels. It has not been aſſerted that any perſon died of the yellow fever on board the Mary, during her voyage; and if it be ſaid, that ſeveral perſons died on
-<pb n="40" facs="tcp:035586_0039_1005F62E9379D700"/>
+<pb n="40" facs="unknown:035586_0039_1005F62E9379D700"/>
 board the Deborah of that diſeaſe, on her paſſage to this city, we cannot admit that they contaminated the timbers or contents of the ſhip in ſuch a manner, as to ſpread the diſeaſe to perſons at ſeveral hundred feet diſtance from the wharf at which ſhe was moored. The improbability of this opinion will appear from two conſiderations.</p>
                <p>Firſt—The diſeaſe is not contagious in the Weſt Indies; and rarely, if ever ſo, in the United States in hot weather, at which time only it makes its firſt appearance in our country. So general is this opinion, that ſome phyſicians have unfortunately refuſed to admit the exiſtence of the fever in its commencement in our city, only becauſe it was not contagious.</p>
                <p>Second—The diſeaſe was in no inſtance propagated by thoſe perſons who were ſuppoſed to have derived it from human contagion, adhering to the timbers and contents of the Deborah and Mary, and who died with it in parts of the city remote from the influence of the foul air of thoſe veſſels.</p>
@@ -561,7 +561,7 @@ board the Deborah of that diſeaſe, on her paſſage to this city, we cannot ad
                <p>In ſupport of our opinion of the diſeaſe being deprived from the exhalations of our city before enumerated, we ſhall mention the names of the following perſons, who had the fever before the arrival of the Deborah or Mary in our port, <abbr>viz.</abbr> Benjamin Jones, from Berger's court, June 2d Mary Wriggleſworth, near the corner of Walnut and Tenth ſtreets, June 6th; Rebecca Treſted, in Front be<g ref="char:EOLhyphen"/>tween Spruce and Union ſtreets, June 11th; Eliza Curran, Fourth below South ſtreet, 27th June; Mark Miller, Callowhill ſtreet, and Molly Zeller, Ra<gap reason="illegible" resp="#AELD" extent="2 letters">
                      <desc>••</desc>
                   </gap> ſtreet, July 2d; Miſs Byrne, Spruce, between Second and Third ſtreets, July 11th; Mr. Vannoſt, Shannon ſtreet wharves, July 12th. We obſerved, moreover, and heard of a conſiderable
-<pb n="41" facs="tcp:035586_0040_1005F630DE7A8938"/>
+<pb n="41" facs="unknown:035586_0040_1005F630DE7A8938"/>
 number of perſons who <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> the diſeaſe in the weſtern parts of the city, and in Southwark and the Northern Li<g ref="char:EOLhyphen"/>berties, who had not been expoſed to contagion, nor breathed the air in the neighbourhood of Water-ſtreet for many weeks, and in ſome inſtances for ſeveral months be<g ref="char:EOLhyphen"/>fore they were attacked by that fever.</p>
@@ -573,13 +573,13 @@ number of perſons who <gap reason="illegible" resp="#AELD" extent="1 word">
                <p n="3">3. The diſeaſe was rarely contagious, even when it ter<g ref="char:EOLhyphen"/>minated in death, when carried into the country, or into towns not expoſed to putrid exhalations.</p>
                <p n="4">4. The general extinction of the diſeaſe by froſt<g ref="char:punc">▪</g> clear<g ref="char:EOLhyphen"/>ly proves that it exiſts chiefly in the atmoſphere; and that it is not derived, in the firſt inſtance, from human conta<g ref="char:EOLhyphen"/>gion; for froſt, it is well known, does not act in the au<g ref="char:EOLhyphen"/>tumnal months upon the bodies of the ſick, nor upon their beds, cloathing, or any other ſuppoſed receptacle of contagion.</p>
                <p>We wiſh to direct the attention of our fellow citizens to the hiſtory of the cauſes and remedies of peſtilential diſ<g ref="char:EOLhyphen"/>eaſes in foreign countries: In the ages of medical ſuper<g ref="char:EOLhyphen"/>ſtition, when thoſe diſeaſes were believed to be imported, they nearly depopulated cities for many ſucceſſive years. Frequent and accumulated ſuffering at laſt begat wiſdom. The cauſes of peſtilence were diſcovered to exiſt in all countries, and domeſtic remedies were applied to remove them. The effect of this change in the opinion and con<g ref="char:EOLhyphen"/>duct of the nations of Europe, has been the almoſt gene<g ref="char:EOLhyphen"/>ral
-<pb n="42" facs="tcp:035586_0041_1005F6331E838218"/>
+<pb n="42" facs="unknown:035586_0041_1005F6331E838218"/>
 extirpation of malignant fevers from their cities and ſea-ports. We have many documents to prove that the recurrence of the yellow fever has been prevented in the cities of Europe by cleanlineſs. It formerly prevailed in Italy, Spain, France, Germany, Holland, and occaſion<g ref="char:EOLhyphen"/>ally, in Britain and Ireland, under the names of putrid, malignant, and bilious fevers, alſo of the <hi>gall-ſickneſs</hi> and of the <hi>black-fever.</hi> The laſt name was derived from the black vomiting, which is ſo often the ſymptom of ap<g ref="char:EOLhyphen"/>proaching death in billious fevers.</p>
                <p>We are the more confirmed in the opinion we have de<g ref="char:EOLhyphen"/>livered, that the yellow fever is a native diſeaſe of our country, by diſcovering that the ſame opinion is held by moſt of the phyſicians and citizens of our ſiſter ſtates. We lament the prevalence of an opinion, that the admiſſion of truth upon this ſubject, will injure the credit of our ci<g ref="char:EOLhyphen"/>ty. Truth, upon all ſubjects, is ultimately friendly to general intereſt and happineſs, while the remedies of the evils of error, are always of a partial and tranſitory nature. We conceive that the report of the exiſtence of a nature ſo ſubtile as to elude the utmoſt force of the health-laws, and the greateſt vigilance of health-officers, will be much more injurious to our city, than a belief of its being deri<g ref="char:EOLhyphen"/>ved from cauſes which are obvious to our ſenſes, and which by active exertions might be <hi>eaſily</hi> and <hi>certainly</hi> re<g ref="char:EOLhyphen"/>moved, without oppreſſing or injuring our commerce.</p>
                <p>We ſhall repeat, in this place, the means recommended by us in our former letter, with the addition of ſome o<g ref="char:EOLhyphen"/>thers for preventing a return of the diſeaſe.</p>
                <p n="1">1. "Removing all thoſe matters from our ſtreets, gut<g ref="char:EOLhyphen"/>ters, cellars, gardens, yards, ſtores, ponds, vaults, &amp;c. which, by putrefaction in warm weather, afford the moſt frequent cauſe of the diſeaſe in this country. For this purpoſe, we recommend the appointment of a certain number of phyſicians, whoſe buſineſs it ſhall be to inſpect all ſuch places in the city, the northern-liberties, and Southwark, as contain any matters capable by putrefacti<g ref="char:EOLhyphen"/>on, of producing the diſeaſe, and to have them removed.</p>
                <p n="2">2. "We earneſtly recommend the frequent waſhing of all impure parts of the city in warm and dry weather, by means of the pumps, until the water of the river Schuyl<g ref="char:EOLhyphen"/>kill can be made to waſh all the ſtreets of the city: a mea<g ref="char:EOLhyphen"/>ſure
-<pb n="43" facs="tcp:035586_0042_1005F634ACB484E0"/>
+<pb n="43" facs="unknown:035586_0042_1005F634ACB484E0"/>
 which we conceive promiſes to our citizens the moſt durable exemption from billious fevers of all kinds, of domeſtic origin.</p>
                <p n="3">3. "To guard againſt the frequent ſource of yellow fever from the noxious air in the holds of veſſels, we re<g ref="char:EOLhyphen"/>commend the unlading ſuch veſſels as contain cargoes li<g ref="char:EOLhyphen"/>able to putrefaction, and the diſcharging the ballaſt of all veſſels at a diſtance from the city, during the months of June, July, Auguſt, September, and October. To pre<g ref="char:EOLhyphen"/>vent the generation of noxious air in the holds of veſſels, we conceive every veſſel ſhould be obliged by law to carry and uſe a ventilator, and we recommend, in a particular manner, the one lately invented by Mr. Benjamin Wyn<g ref="char:EOLhyphen"/>koop. We believe this invention to be one of the moſt important and uſeful that has been made in modern times, and that it is calculated to prevent not only the decay of ſhips and cargoes, but a very frequent ſource of peſtilen<g ref="char:EOLhyphen"/>tial diſeaſes of all kinds in commercial cities."</p>
                <p n="4">4. The filling up, or cleaning the docks in ſuch a man<g ref="char:EOLhyphen"/>ner, that no matters capable of putrefaction, ſhall be ex<g ref="char:EOLhyphen"/>poſed to the rays of the ſun at low water.</p>
@@ -588,7 +588,7 @@ which we conceive promiſes to our citizens the moſt durable exemption from bil
                <p n="7">7. The prohibition of allies and narrow ſtreets in the future improvement of the city.</p>
                <p n="8">8. An alteration of the preſent health law, which, by detaining veſſels with periſhable cargoes for ten days at the hoſpital, in hot weather, is calculated to increaſe the foul air in their holds; and we recommend alſo, that no veſſel, owned by a citizen of Philadelphia, be permitted to leave or to enter our ports, that is not provided with a ventilator.</p>
                <p>We ſhall conclude our letter by deprecating, in the moſt ſolemn manner<g ref="char:punc">▪</g> the continuance of a belief in the ſuppo<g ref="char:EOLhyphen"/>ſed importation of our fever, an opinion which has led to the total negligence of the means of preventing its return; alſo by humbly hoping, that a merciful Providence may not correct our ignorance and prejudices by frequent re<g ref="char:EOLhyphen"/>turns
-<pb n="44" facs="tcp:035586_0043_1005F63704E35F90"/>
+<pb n="44" facs="unknown:035586_0043_1005F63704E35F90"/>
 of a calamity, which i<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap>, five years ſwept away ten thouſand of our inhabitants, and which in a few years may, if not obviated by the only proper remedies, (under the influence of the preſent inflammatory conſtitution of the atmoſphere) annihilate our city.</p>
@@ -607,28 +607,28 @@ of a calamity, which i<gap reason="illegible" resp="#AELD" extent="1 letter">
                <head>DESULTORY OBSERVATIONS and REFLECTIONS.</head>
                <p>THE following obſervation made by Mr. Charles Holt, in his account of the yellow fever as it appeared at New-London, in the fall of 1798, is equally applica<g ref="char:EOLhyphen"/>ble to this and to every other city attacked with peſtilence: "What ſtriking inſtances of the tranſitorineſs of life does ſuch a diſeaſe afford! We ſee men exulting in the bloom of youth and prime of health and ſtrength, in three or four ſhort days numbered with the dead. Our gayeſt companions, our lovelieſt friends, in leſs than a week, are laid in the duſt. When we are daily witneſſing theſe ſcenes around us, who can avoid reflecting often, and feelingly, that, his <hi>turn may be next!</hi> yet the mind, when habitu<g ref="char:EOLhyphen"/>ated to the moſt afflictive and extraordinary events, be<g ref="char:EOLhyphen"/>comes hardened, and views them with unconcern and in<g ref="char:EOLhyphen"/>difference. Diſeaſe, and death, the moſt dreadful acci<g ref="char:EOLhyphen"/>dents that can afflict the human frame, when made fami<g ref="char:EOLhyphen"/>liar to the ſight, ceaſe to inſpire dread, and are ranked with the moſt common occurrences.</p>
                <p>Upon the firſt appearance of the fever, many of our inhabitants had recourſe to ſome ſort of ſuppoſed preven<g ref="char:EOLhyphen"/>tatives againſt infection. Thus, ſome chewed garlic, o<g ref="char:EOLhyphen"/>thers ſmoaked tobacco, and others hoped to avoid the diſ<g ref="char:EOLhyphen"/>order by having recourſe to ſmelling-bottles, handker<g ref="char:EOLhyphen"/>chiefs
-<pb n="45" facs="tcp:035586_0044_1005F63A9EBB1890"/>
+<pb n="45" facs="unknown:035586_0044_1005F63A9EBB1890"/>
 dipped in vinegar, camphor bags, &amp;c. ſo that few individuals could be ſeen in the ſtreets, without one or other of theſe applied to his noſtrils. At laſt, however, experience had proved, that theſe were inefficaciou<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap>. A reliance on divine Providence ſucceeded, and in the moſt terrible ſtages of the diſorder, the citizens diſcovered the moſt decent fortitude, and the greateſt reſignation. Theſe imaginary preventatives were therefore thrown aſide.</p>
                <p>It has often been ſaid, that temperance was the beſt preſervative againſt infection. The obſervation, in gene<g ref="char:EOLhyphen"/>ral, is certainly juſt; but it may, and, during the late calamity has, been carried too far. For my part, from what has come under my own knowledge, I have no heſitation in aſſerting, that to perſons, who had been accuſtomed to live freely, nothing could be more danger<g ref="char:EOLhyphen"/>ous, than to become remarkably abſtemious upon the ap<g ref="char:EOLhyphen"/>pearance of this diſorder. Perſons of the above deſcription, ſhould in my opinion, have continued to live in their uſual manner; by which means, they would have been more likely to repel infection, or if infected, they would have more ſtrength to reſiſt the attack. But whilſt I conſider abſtinence in ſuch a ſituation, as being highly improper, a ſtate of intemperance is certainly more ſo, for were it ne<g ref="char:EOLhyphen"/>ceſſary, I could mention the names of ſeveral individuals, who, whilſt in a ſtate of intoxication, were attacked with the fever, and in two days after, were tenants of the grave. The fate of ſuch people might be pronounced almoſt with certainty: they were ſeized with ſymptoms of a peculiar<g ref="char:EOLhyphen"/>ly malignant nature, and their death ſeemed unavoidable.</p>
                <p>Mr. Carey, in his account of the Yellow Fever in Phi<g ref="char:EOLhyphen"/>ladelphia, in the year 1793, mentions ſome diſtreſſing ſcenes which took place, in that city, in conſequence of ſome women in labour, being greatly at a loſs for want of aſſiſtance. Difficulties of the ſame ſort, occurred in New York, during the ſickneſs of 1798, but by no means in the ſame degree. There were however ſeveral inſtances of diſtreſs, in this particular, of which I ſhall only
-<pb n="46" facs="tcp:035586_0045_1005F63D3713E250"/>
+<pb n="46" facs="unknown:035586_0045_1005F63D3713E250"/>
 ſelect one. My wife was taken in labour on the 20th Sept. about 9 in the evening. I applied to many Doctors and Midwives. Some were really ſick; ſome pretended to be ſo, and others candidly told me, that in conſequence of the peſtilence, which prevailed in my vicinity, they would on no account attend. At five in the enſuing morn<g ref="char:EOLhyphen"/>ing, I applied to Mrs. Bunting, a midwife at Deans dock Greenwich Street, who immediately came with me. I would not have mentioned this circumſtance; but that it afterwards came to my knowledge, that Mrs. Bunting, in caſes where the diſorder raged with the utmoſt malignity, never heſitated to attend any perſons in that ſituation, and that too in many caſes where ſhe muſt have been con<g ref="char:EOLhyphen"/>vinced, ſhe would never receive any emolument. Such inſtances of diſintereſted philanthropy, ought not, in a pub<g ref="char:EOLhyphen"/>lication of this ſort to be omitted. They do honour to human nature.</p>
                <p>No diſeaſe has, perhaps, on any previous occaſion been more fatal to phyſicians, than that with which we were lately afflicted: for during its prevalence, excluſive of medical ſtudents, no leſs than ſixteen phyſicians have been ſwept off, in diſcharging the perilous duties of their profeſſion. Theſe are Doctors Andrews, Brooks, D. Chickering, Dingley, Peter Faugeres, John B. Hicks, John B. Jones, Melchen Caldwell, Lamb, Millegan, J. B. Scandella, Elihu H. Smith, Teller, Tredwell, Va<g ref="char:EOLhyphen"/>rick, and Young. As all theſe gentlemen fell ſacrifices to their endeavours to relieve the diſtreſſed, it might appear invidious, were I to point out thoſe, who in my opinion were moſt uſeful and eminent in their profeſſion. I ſhall therefore only mention the caſe of J. B. Scandella, who, being a foreigner of diſtinguiſhed literary abilities, and poſſeſſed of the moſt philanthropic principles, along with the others, fell a ſacrifice to his humanity. This gentleman was a native of Venice, and deſcended of one of the moſt noble families in that country. He was, however, more diſtinguiſhed by the ſpelndour of his ta<g ref="char:EOLhyphen"/>lents, than by the nobility of his birth. A liberal curioſi<g ref="char:EOLhyphen"/>ty had led him to this country, when he had juſt finiſhed his reſearches, and was preparing to embark for Europe,
-<pb n="47" facs="tcp:035586_0046_1005F63FF5B0DF80"/>
+<pb n="47" facs="unknown:035586_0046_1005F63FF5B0DF80"/>
 when motives of humanity led him back to Philadelphia, in the height of the late Epidemic. From thence he re<g ref="char:EOLhyphen"/>turned in ſix days, having previouſly contracted that fatal diſeaſe, of which he expired, after a ſhort, though very painful illneſs, in the bloom of his age, and the vigour of his faculties. The great attention which was paid to this unfortunate ſtranger, by Dr. Elihu H. Smith, was like<g ref="char:EOLhyphen"/>wiſe in all probability, the immediate cauſe of his death.</p>
                <p>It is very remarkable, that although, there were, during the time of this peſtilence, about 800 people in the Alms Houſe, no more than 24 died in all, and of theſe, only 7 of the diſorder. It is likewiſe certain that theſe 7, caught the piſtemper in the city, and that, in no inſtance, contagion was communicated from one to another in that building. This uncommon healthineſs in a place, where there were ſo many people together, may, in all probabili<g ref="char:EOLhyphen"/>ty be attributed to its airy ſituation, the ſpaciouſneſs of the rooms, the remarkable cleanlineſs inſiſted upon by the manager Mr. Dodge, and the liberal uſe of lime.</p>
                <p>It has been remarked, that during the ſeveral viſitations of yellow fever, with which different cities of the United States have been afflicted, that more men than women have died of the diſorder, in the proportion in general of about four to three; but during the peſtilence of laſt au<g ref="char:EOLhyphen"/>tumn, in this city, the proportion of the men who were cut off was ſtill greater; there being very nearly about two men for one woman. This diſproportion, however, of the fatality to the two ſexes, need not appear ſtrange, when we conſider that men, by the nature of their employ<g ref="char:EOLhyphen"/>ment, are more expoſed to infection than women. The man having occaſion to buſtle about from one place to another, whilſt the woman's particular province is the ſu<g ref="char:EOLhyphen"/>perintendance of the family concerns.</p>
                <p>
-                  <pb n="48" facs="tcp:035586_0047_1005F641974B26680"/>
+                  <pb n="48" facs="unknown:035586_0047_1005F641974B26680"/>
 It has been formerly aſſerted by ſeveral phyſicians of eminence, that the blacks were much leſs ſubject to the ravages of the Yellow Fever, than the whites. This opin<g ref="char:EOLhyphen"/>ion was no doubt productive of conſiderable utility to the citizens of Philadelphia, during their affliction of the year 1793, as the people of colour were almoſt excluſively the only perſons, who would venture to nurſe the ſick. The idea, however, that they ran no riſque of receiving infec<g ref="char:EOLhyphen"/>tion appeared fallacious, as many of them died in that city<g ref="char:punc">▪</g> during the time of that ſickneſs. I may add, that during our late calamity, I have every reaſon to believe that the fatality was fully as great amongſt the blacks, as the whites in proportion to their numbers. This, however, may not appear to a number of my readers, when they find in my liſt containing the number of perſons interred in each of the burying grounds of this city, that I have only men<g ref="char:EOLhyphen"/>tioned 41 negroes. It ought therefore to be obſerved, that excluſive of theſe 41 who were buried in what is call<g ref="char:EOLhyphen"/>ed the <hi>Negroes Burying Ground,</hi> there were no doubt, ſix times that number buried in the Potter's field, at Belle<g ref="char:EOLhyphen"/>vue, and in ſome of the grave yards of this city.</p>
                <p>Some extracts of letters from Philadelphia, publiſhed in our newſpapers in this city, announce, that there are ſtill ſeveral caſes of yellow fever amongſt them. There are alſo reports to the ſame purpoſe with reſpect to its ex<g ref="char:EOLhyphen"/>iſtence amongſt us, Jan. 16th; but upon the moſt particular enquiry of a number of reſpectable Phyſicians, and others, I cannot find a ſingle inſtance of its having been ſeen here for theſe ſeveral weeks paſt: And I am almoſt convinced, that the ſituation of the Philadelphians is as healthy at preſent as ours.</p>
                <p>Many publications have been iſſued on the ſubject of the Yellow Fever, by gentlemen of literary talents. I have it from good authority, that another will ſoon make its ap<g ref="char:EOLhyphen"/>pearance, written by Doctor Hitchcock.</p>
             </div>
          </div>
          <div n="2" type="part">
-            <pb n="49" facs="tcp:035586_0048_1005F6454830E898"/>
+            <pb n="49" facs="unknown:035586_0048_1005F6454830E898"/>
             <head>The POOR, AND THE MANNER IN WHICH THEY WERE RELIEVED, In the City, at Bellevue, and in the Debtors Appartment.</head>
             <p>IN a calamity ſo terrible and unexpected, the diſtreſs of of the labouring poor were unavoidably great. The general ſtagnation of buſineſs had deprived them of their ordinary means of ſupport and rendered them unable to remove where employment and ſubſiſtence might be had. To add to their difficulties, their employers, and more affluent acquaintances, who might have been diſpoſed to relieve their wants, had in general fled.</p>
             <p>But theſe were not the only objects of commiſeration. Many, who had ſupported themſelves and families in an eaſy, though not affluent manner, were from the impoſſi<g ref="char:EOLhyphen"/>bility of earning any thing, the difficulty of recovering their little debts and the heavy expences incident to a ſtate of ſickneſs, reduced to the moſt extreme diſtreſs, whilſt others, in opulent circumſtances, having remained in the city, after their connexio<gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -637,7 +637,7 @@ It has been formerly aſſerted by ſeveral phyſicians of eminence, that the bl
                   <desc>•</desc>
                </gap>t helpleſs by themſelves, without a friend to conſole them, a phyſician to preſcribe for them or a nurſe to adminiſter the pre<g ref="char:EOLhyphen"/>ſcription.</p>
             <p>The Health Commiſſioners, appointed by authority of the State Legiſlature, had hitherto exerted their utmoſt endeavours to alleviate the various afflictions of the diſ<g ref="char:EOLhyphen"/>treſſed, but the Common Council being informed that the number of ſick had become ſo great and were ſtill encreaſ<g ref="char:EOLhyphen"/>ing, that the Commiſſioners could not take care of them all, that the accommodations at <hi>Bellevue</hi> were inſufficient and that many of the poor ſick were ſo circumſtanced as to render a removal there both inconvenient and impro<g ref="char:EOLhyphen"/>per, on the 10th September appointed <hi>Gabriel Furman; John B. Coles, Theophilus Beekman, Jacob de la Montag<g ref="char:EOLhyphen"/>nie</hi> and <hi>Richard Furman, Eſqrs.</hi> five of the Alder<g ref="char:EOLhyphen"/>men, together with <hi>John Bogert</hi> and <hi>Philip I. Arcularius Eſqrs.</hi> two Aſſiſtant Aldermen, a committee of their own board denominated <hi>the Health Committee of the City of
-<pb n="50" facs="tcp:035586_0049_1005F647B66794F0"/>
+<pb n="50" facs="unknown:035586_0049_1005F647B66794F0"/>
 New-York,</hi> "with full powers to make ſuch other build<g ref="char:EOLhyphen"/>ings for the ſick at <hi>Bellevue,</hi> as they, with the advice of the Commiſſioners of the Health-Office might think ne<g ref="char:EOLhyphen"/>ceſſary; and to take into their charge and furniſh with medical aid, and every neceſſary, all ſuch of the ſick poor as could not be accommodated at <hi>Bellevue,</hi> or the ſituation of whoſe perſons or families were ſuch as to ren<g ref="char:EOLhyphen"/>der their removal to <hi>Bellevue</hi> improper or inconvenient."</p>
             <p>The gentlemen ſo appointed, totally diſregarding their <hi>own</hi> preſervation, and only intent on arreſting the progreſs of the diſorder and relieving the diſtreſſed, with a magna<g ref="char:EOLhyphen"/>nimity and patriotiſm meriting the higheſt eulogiums, rea<g ref="char:EOLhyphen"/>dily ſtept forth and by their generous, ſtedfaſt and bene<g ref="char:EOLhyphen"/>volent exertions, undoubtedly ſaved many of their fel<g ref="char:EOLhyphen"/>low citizens from penury, diſeaſe and death. As ſoon as they accepted the appointment to this arduous under<g ref="char:EOLhyphen"/>taking, they immediately proceeded to buſineſs and ap<g ref="char:EOLhyphen"/>pointed Alderman Gabriel Furman their chairman, a gentleman, who together with Alderman Beekman had been on the committee for the relief of the ſick and indi<g ref="char:EOLhyphen"/>gent in the years 1793 and 1794, and alſo during the peſ<g ref="char:EOLhyphen"/>tilential diſorder of 1795. I have already obſerved, that one of the objects for which the committee was appoint<g ref="char:EOLhyphen"/>ed was to make ſuch further buildings and accommodati<g ref="char:EOLhyphen"/>ons for the ſick at Bellevue as they with the advice of the Commiſſioners of the Health-Office might think neceſſary. They accordingly gave orders for the erection of two buildings, one of which ſhould be ſixty feet in length by twenty in breadth, for the accommodation of the ſick, and another of the ſame extent, but two ſtories in height, for the reception of the convaleſcents; and ſuch was the diſ<g ref="char:EOLhyphen"/>patch of the workmen employed in that buſineſs, that both were compleated in about eight days.</p>
             <p>Previous to this the ſick, the convaleſcent and the dying were all crowded together, and <gap reason="illegible" resp="#AELD" extent="2 letters">
@@ -645,27 +645,27 @@ New-York,</hi> "with full powers to make ſuch other build<g ref="char:EOLhyphen
                </gap>e apartments were by no means ſufficient for the number of the diſeaſed; but by this humane attention, the convaleſcents were ſeparat<g ref="char:EOLhyphen"/>ed from the ſick, and from that time the number of thoſe who recovered at that hoſpital was much greater in pro<g ref="char:EOLhyphen"/>portion than it had been before. There was likewiſe other circumſtances which no doubt greatly contributed to <gap reason="illegible" resp="#AELD" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> happy change. The attendants and nurſes, at firſt ap<g ref="char:EOLhyphen"/>pointed
-<pb n="51" facs="tcp:035586_0050_1005F64A4F28B4F0"/>
+<pb n="51" facs="unknown:035586_0050_1005F64A4F28B4F0"/>
 for the care of the ſick, were in general perſons of rather indifferent character, and of courſe that attenti<g ref="char:EOLhyphen"/>on was not paid to the ſick which the Commiſſioners could have wiſhed. The truth is that at the commence<g ref="char:EOLhyphen"/>ment of this melancholy buſineſs, fear pervaded the ſtout<g ref="char:EOLhyphen"/>eſt heart and terror was depicted in the countenances of moſt people; hence many perſons of irreproachable cha<g ref="char:EOLhyphen"/>racter and humane diſpoſitions, who in other circumſtances would have been very willing to aſſiſt their fellow crea<g ref="char:EOLhyphen"/>tures, were deterred from entering on ſo perilous an un<g ref="char:EOLhyphen"/>dertaking. The Health Commiſſioners, therefore, to whom the care of this Hoſpital was committed, had no choice. Nurſes and attendants muſt be had, and as they could not procure the moſt proper perſons, they were obliged to be contented with ſuch as they could obtain.</p>
             <p>The caſe, however, was now changed. People began to recover from the panic with which they had been ſtruck, and notwithſtanding every diſcouraging circumſtance, ma<g ref="char:EOLhyphen"/>ny were found whoſe humanity would not permit them to withhold from their fellow creatures that aſſiſtance which they in a ſimilar ſituation had a right to expect; nurſes of good character were accordingly found, and the former improper perſons were diſmiſſed. Doctor Bayley, the Health-Officer, whoſe character as a phyſician is too well known to require any panegyric, aided by two aſſiſtants, <abbr>viz.</abbr> Doctor Douglaſs and Doctor Gregory, attended on the ſpot, and in a ſhort time the greateſt order and regu<g ref="char:EOLhyphen"/>larity was introduced; the patients were treated with the utmoſt care and tenderneſs; the nurſes and attendants diſcharged their reſpective duties with fidelity; and <hi>Belle<g ref="char:EOLhyphen"/>vue</hi> inſtead of being conſidered as the anti-chamber of the grave, began to be viewed, by many of the afflicted as a place where they ſtood a greater chance of recovery than any where elſe.</p>
             <p>That cleanlineſs is not only very conducive to health, but that it contributes greatly to the removal of diſorder from thoſe who are afflicted, and alſo very much tends to prevent the ſpreading of infection amongſt their attendants will ſcarcely be denied. The experience of every one who has been converſant amongſt thoſe afflicted with pe<g ref="char:EOLhyphen"/>ſtilential diſorders, in every age and in every country abundantly confirms this fact; and ſurely this excellent
-<pb n="52" facs="tcp:035586_0051_1005F64BF7A8E6C0"/>
+<pb n="52" facs="unknown:035586_0051_1005F64BF7A8E6C0"/>
 preſervative and remedy was never better obſerved than here.</p>
             <p>Upon the commiſſioners taking poſſeſſion of this place, the walls, timber, and every part both inſide and outſide were whitewaſhed, and the practice of whitewaſhing the inſide every week, ten days or fortnight, according to the ſeaſon of the year, and number of ſick, was ſteadily pur<g ref="char:EOLhyphen"/>ſued ſince its firſt eſtabliſhment. Another practice never omitted was, that if at any time in the courſe of a perſon's being confined with fever, his bed, ſhirt or linen were ſtained or ſoiled by vomiting or otherwiſe, they were <hi>immediately</hi> removed and replaced with clean ones; be<g ref="char:EOLhyphen"/>ſides the linnen and bed clothes of the ſick were uſually changed every day or two, if even thoſe extraordinary circumſtances did not occur. Theſe means, as a ſyſtem of cleanlineſs, were ſteadily adhered to by the attendants at this Hoſpital.</p>
             <p>The whole number of perſons admitted from Auguſt 1ſt to 3d. November, ſince which time none have been received, was three hundred and eighty-nine, of whom two hundred and eighty-nine were from the city and one hundred ſeamen; of the former one hundred and ſeventy two died and one hundred and ſeventeen were diſcharged. The latter were more fortunate, for of them only thirty-three died and the other ſixty-ſeven were diſcharged.</p>
             <p>From the above ſtatement, which may be depended up<g ref="char:EOLhyphen"/>on as correct, the following queſtion naturally occurs. How came it that a much greater proportion of ſeamen recovered at this Hoſpital, than of thoſe ſent thither from the city? The anſwer is this. The ſeamen were in ge<g ref="char:EOLhyphen"/>neral ſent therein the firſt ſtage of the diſorder, whereas many of our citizens from the fears which they entertained of that Hoſpital, could not be prevailed upon to be re<g ref="char:EOLhyphen"/>moved thither till they were paſt recovery. In confirma<g ref="char:EOLhyphen"/>tion of this I may add that of a good many people whom I myſelf have ſeen previous to their being carried thither, by far the greater part of thoſe who were removed on the firſt attack recovered, whereas to thoſe who remained till the diſorder had acquired a greater degree of malignancy little elſe was to be expected but death. Indeed ſeveral died within a few hours after their entrance in the Hoſpi<g ref="char:EOLhyphen"/>tal and more than a third in two days. There is one
-<pb n="53" facs="tcp:035586_0052_1005F64F72723AF8"/>
+<pb n="53" facs="unknown:035586_0052_1005F64F72723AF8"/>
 thing very remarkable with reſpect to the attendants at this Hoſpital, which ought not to be omitted. Their ſituati<g ref="char:EOLhyphen"/>on to moſt people muſt no doubt have appeared peculiar<g ref="char:EOLhyphen"/>ly dangerous, as they were literally ſurrounded with peſti<g ref="char:EOLhyphen"/>lence. It ſo happened, however, that neither nurſes, nor waſherwomen caught the infection. The boatmen too be<g ref="char:EOLhyphen"/>longing to the Health-Office, who entered the Hoſpital at all times and were not only engaged in bringing the ſick from the city and ſhipping, but likewiſe in removing them from place to place, enjoyed a ſtate of perfect health; and of thoſe perſons who accompanied their friends and rela<g ref="char:EOLhyphen"/>tives, ſtayed with them and nurſed them, there is not a ſin<g ref="char:EOLhyphen"/>gle inſtance of an individual being infected. In ſhort, Dr. Douglaſs was the only perſon reſiding there who was ſeized with fever; but he had been in the habit of occaſionally viſiting his friends in the city, and three days previous to his being taken ill, had ſlept in a houſe the vicinity of which was highly infected; and it is more than probable that his ſickneſs was occaſioned by that cauſe.</p>
             <p>From the above, and many other facts which might be mentioned, it amounts to a certainty that this fever will not ſpread in a <hi>pure air.</hi> For this reaſon the inhabitants of the country have little or no reaſon of being afraid to receive the ſick who remove from town, nor of thoſe who are taken ill with fever after leaving the city<g ref="char:punc">▪</g> for, as is obſerved by Mr. Noah Webſter, junior, <hi>in his conclud<g ref="char:EOLhyphen"/>ing obſervations to a collection of papers on the ſubject of bilious fevers,</hi> publiſhed in the year 1796. "The panic that ſeized the whole continent, when the diſeaſe in Phi<g ref="char:EOLhyphen"/>ladelphia, is now found to have been needleſs and with<g ref="char:EOLhyphen"/>out juſt cauſe; and it is preſumed, that ſuch inhuman caution and barbarous meaſures as were adopted on that occaſion, will never again diſgrace our country."</p>
             <p>Having thus given an account of the Hoſpital at Belle<g ref="char:EOLhyphen"/>vue, and of the treatment of the ſick, I now proceed<g ref="char:punc">▪</g> to point out the manner of adminiſtering relief to ſuch ſick perſons as could not be accommodated there, or the ſitu<g ref="char:EOLhyphen"/>ation of whoſe perſons or families rendered their removal improper or inconvenient.</p>
             <p>With reſpect to accommodations there was no doubt a conſiderable difficulty previous to the erection of the two additional buildings which I have already mentioned; but
-<pb n="54" facs="tcp:035586_0053_1005F65205F5D548"/>
+<pb n="54" facs="unknown:035586_0053_1005F65205F5D548"/>
 theſe being compleated, that difficulty was entirely re<g ref="char:EOLhyphen"/>moved.</p>
             <p>When individuals, who had no families were ſeized with the diſorder, and were incapable of providing for them<g ref="char:EOLhyphen"/>ſelves the neceſſary relief, it was the wiſh of the commit<g ref="char:EOLhyphen"/>tee that they ſhould be removed to Bellevue as ſpeedy as poſſible. By which means the progreſs of the diſorder might be arreſted, whilſt the chance of their recovery was as great at leaſt if not greater than if they had remained in the city. But to ſeparate children from their parents, huſ<g ref="char:EOLhyphen"/>bands from their wives, or wives from their huſbands, or in ſhort to have removed contrary to their inclinations, a ſingle individual from any family, where perhaps they had reſolved to remain by each other, ſo the laſt extremity, would have been an act of the greateſt inhumanity. For ſuch, therefore, it was neceſſary that proviſion ſhould be made by the committee.</p>
             <p>They accordingly being ſenſible of the miſerable ſitua<g ref="char:EOLhyphen"/>tion to which the poor muſt be reduced by the ſuſpenſion of all buſineſs and the diſtreſs they muſt ſuffer when at<g ref="char:EOLhyphen"/>tacked by diſeaſe, devoted their ſole and undivided at<g ref="char:EOLhyphen"/>tention to their relief.</p>
             <p>For this purpoſe they advertiſed in the public prints, that the more eaſily and effectually to anſwer the end of their benevolent appointment, they would daily attend at the Alms-Houſe from 9 to 1 and from 3 to 6 afternoon, to receive the applications of the ſick, the widow and or<g ref="char:EOLhyphen"/>phan, or their friends in their behalf, and to grant ſuch relief as the liberality of the Common Council of the city had directed.</p>
             <p>The Common Council, at an early period of the diſ<g ref="char:EOLhyphen"/>order, had borrowed a ſum of money to be appropriated towards the above benevolent purpoſe, and about the lat<g ref="char:EOLhyphen"/>ter end of September, Mr. John Murray, junior, a re<g ref="char:EOLhyphen"/>ſpectable merchant of this city, generouſly offered to the Committee to guarantee a farther loan of ten thouſand dollars, if it ſhould be wanted; but the charitable donati<g ref="char:EOLhyphen"/>ons received from different parts of this ſtate, from New-Jerſey and Connecticut; and alſo from many of our own wealthy citizens rendered this meaſure unneceſſary. By their beneficence and humanity the Committee were en<g ref="char:EOLhyphen"/>abled to afford to the neceſſitous a conſiderable degree of
-<pb n="55" facs="tcp:035586_0054_1005F65476DA2128"/>
+<pb n="55" facs="unknown:035586_0054_1005F65476DA2128"/>
 comfort, of which they would otherwiſe have been de<g ref="char:EOLhyphen"/>prived. Liberal donations of money, produce, &amp;c. (a liſt of which is annexed) were daily received and diſtributed as each particular caſe ſeemed to require.</p>
             <p>As during the ravages of this dreadful diſorder, medical aid was an object of the firſt concern, it may not be im<g ref="char:EOLhyphen"/>proper to mention the manner in which the poor were ac<g ref="char:EOLhyphen"/>commodated in this reſpect. Early in the ſickneſs many of our moſt eminent phyſicians had le<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
@@ -673,7 +673,7 @@ comfort, of which they would otherwiſe have been de<g ref="char:EOLhyphen"/>pri
                   <desc>•</desc>
                </gap>nt.</p>
             <p>The extreme aſſiduity and humanity which theſe gentle<g ref="char:EOLhyphen"/>men diſplayed in the diſcharge of their duty, is well known to the afflicted poor; and places their conduct in ſuch a point of view as to be far above any panegyric of mine. To no perſon could their diligence be better known than to me, and in juſtice to them I think it my duty to declare that notwithſtanding the great fatigue and danger to which they were continually expoſed, they with the greateſt ala<g ref="char:EOLhyphen"/>crity daily ſuſtained the perilous taſk of viſiting and admi<g ref="char:EOLhyphen"/>niſtering the neceſſary medicine to hundreds of their afflic<g ref="char:EOLhyphen"/>ted fellow creatures. From morning to night they were inceſſantly engaged; nor did any of them, when called up<g ref="char:EOLhyphen"/>on to ſee a patient, even at the moſt unſeaſonable hours, heſitate a moment to wait upon them, let the diſorder be ever ſo malignant. Thanks to heaven their valuable lives are ſpared, and long, very long, may they live in the grateful remembrance of their fellow citizens. How ma<g ref="char:EOLhyphen"/>ny owe their ſafety to their ſkill and attention it is not eaſy to determine; but this far may be ſafely aſſerted, that there are many now in good health, who but for their ſkill and attention would have been tenants of the grave. But had the attention of the committee been confined to pro<g ref="char:EOLhyphen"/>curing phyſicians for the ſick, it would have been produc<g ref="char:EOLhyphen"/>tive of little good, for I have known many caſes where the huſband and wife with ſome others of the family were
-<pb n="56" facs="tcp:035586_0055_1005F65619BAD678"/>
+<pb n="56" facs="unknown:035586_0055_1005F65619BAD678"/>
 ſo grievouſly afflicted as to be incapable of furniſhing each other <hi>even</hi> with a cup of water.</p>
             <p>For ſuch perſons nurſes were therefore to be provided at the public expence; and here the ſame difficulty at firſt occurred in procuring good ones as at Bellevue. This, however, was ſoon got over, as the committee hav<g ref="char:EOLhyphen"/>ing advertiſed that nurſes of good character were wanted, to whom generous wages would be paid, a ſufficient num<g ref="char:EOLhyphen"/>ber of decent people readily offered their ſervice. Some indeed were found to act improperly; but when the caſe was repreſented to the Committee, they were diſmiſſed and others ſubſtituted in their ſtead.</p>
             <p>But beſides procuring nurſes for the relief of the poor, the committee were frequently under the neceſſity of geting them for ſome of thoſe in affluent circumſtances, whoſe friends had probably <gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -752,7 +752,7 @@ comfort, of which they would otherwiſe have been de<g ref="char:EOLhyphen"/>pri
                </table>
             </p>
             <p>
-               <pb n="57" facs="tcp:035586_0056_1005F659C0F71200"/>
+               <pb n="57" facs="unknown:035586_0056_1005F659C0F71200"/>
 The truſtees of the Diſpenſary in their report on this intereſting ſubject, make the following very judicious re<g ref="char:EOLhyphen"/>mark, "The great proportion of caſes of the Yellow Fe<g ref="char:EOLhyphen"/>ver in this ſtatement, whilſt it affords the moſt undeniable evidence of the utility of the inſtitution, is alſo an honor<g ref="char:EOLhyphen"/>able proof of the talents and aſſiduity of their phyſician Doctor Hugh M'Lean, more eſpecially when it is conſi<g ref="char:EOLhyphen"/>dered that the objects conſiſted of the pooreſt and moſt deſtitute claſs of citizens."</p>
             <p>As the diſorder continued to make farther progreſs, the committee found the calls on their humanity daily encreaſe.</p>
             <p>The indigent ſick were indeed ſupplied with medical aid and nurſes; but it was neceſſary that proviſion ſhould be made for their maintainance, and alſo for a number of families, the heads of which not being able to find any employment, were in the greateſt diſtreſs.</p>
@@ -761,7 +761,7 @@ The truſtees of the Diſpenſary in their report on this intereſting ſubject,
                </gap>t the head of Diviſion-ſtreet, from whence ſuch indigent and diſtreſſed ſick, as were deprived of the means of providing for themſelves, were liberally ſupplied with ſoups, boiled meat, bread, candles, and other proper and neceſſary arti<g ref="char:EOLhyphen"/>cles ſuitable to their ſituation.</p>
             <p>Perhaps, in ſuch a calamity, no eſtabliſhments could have been deviſed of more general utility than theſe cook houſes; the ſituation of many of the ſick being ſuch, as would not admit of their nurſes leaving them to dreſs the neceſſary proviſions; to which it may be added, that if money had been given to ſome of them for the purchaſe of neceſſaries, it would have very probably been expended for articles, which, inſtead of contributing to the relief of the ſick, might have been highly detrimental, or it might have been appropriated to their own uſe. I may likewiſe obſerve, that if pecuniary aid had been been afforded to ſome of the more thoughtleſs and diſſipated poor, they would very probably have ſpent it, in procuring for them<g ref="char:EOLhyphen"/>ſelves a temporary gratification, whilſt their ſtarving fami<g ref="char:EOLhyphen"/>lies remained neglected.</p>
             <p>In confirmation of this, I ſhall adduce one inſtance out of a few others, of a ſimilar nature which came under my
-<pb n="58" facs="tcp:035586_0057_1005F65C3ABB00F0"/>
+<pb n="58" facs="unknown:035586_0057_1005F65C3ABB00F0"/>
 own obſervation. The wi<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>e of a perſon whom I had oc<g ref="char:EOLhyphen"/>caſion to ſee, in the diſcharge of my duty, was dangerouſly ill of the prevailing fever. She lay in a damp cellar and was deſtitute of every neceſſary and comfort. Of money entruſted to me by the committee for the relief of the diſ<g ref="char:EOLhyphen"/>treſſed, I therefore left with the huſband two dollars, one of which I wiſhed to be appropriated to the purchaſe of half a load of wood, and the other for ſuch little articles as might be immediately neceſſary for his wife and child. I called again at the houſe a few hours after, but inſtead of finding the money applied as I expected, I found the man in a ſtate of intoxication, and totally regardleſs and inſen<g ref="char:EOLhyphen"/>ſible of the ſituation of his afflicted wife, who was then in the agonies of death. She died ſoon after; the funeral was conducted by ſtrangers, by whom likewiſe their child about ſix years of age, was carried to the Alms-houſe, whilſt the unhappy huſband remained in a ſtate of inſenſi<g ref="char:EOLhyphen"/>bility, knowing or caring very little about what had hap<g ref="char:EOLhyphen"/>pened.</p>
@@ -769,7 +769,7 @@ own obſervation. The wi<gap reason="illegible" resp="#AELD" extent="1 letter">
             <p>The number of thoſe, who received their daily ſubſiſt<g ref="char:EOLhyphen"/>ence from theſe cook houſes, during the greateſt part of the calamity, amounted to between 1600 and 2000 per<g ref="char:EOLhyphen"/>ſons, of whom many were helpleſs ſick, widows and or<g ref="char:EOLhyphen"/>phans; whilſt eight hundred people were, at the ſame time, ſupported in the Alms-houſe, out of funds provided by law.</p>
             <p>But the ample donations and very liberal contributions, which as I have already obſerved, were collected in many places, for our relief, whilſt it reflected the higheſt honour, on the donors, and demanded our warmeſt gratitude, alſo enabled the committee to relieve many of the diſtreſſed in a different manner.</p>
             <p>The cook-houſes were certainly highly uſeful; but there were many ſick and indigent, who lived at a conſider<g ref="char:EOLhyphen"/>able diſtance from either of them, to whom it would have been very inconvenient to have procured from thence the neceſſary proviſions<g ref="char:punc">▪</g> and the circumſtances of others
-<pb n="59" facs="tcp:035586_0058_1005F65EC54C1FF8"/>
+<pb n="59" facs="unknown:035586_0058_1005F65EC54C1FF8"/>
 ſeemed likewiſe to require aſſiſtance of a different na<g ref="char:EOLhyphen"/>ture<g ref="char:punc">▪</g>
             </p>
             <p>The produce which came from various parts of the country for the relief of the indigent, except what was ſent to the cook-houſes by order of the committee, was depo<g ref="char:EOLhyphen"/>ſited in a ſtore oppoſite the Alms-houſe; from whence upwards of five hundred families were from time to time relieved by donations in neceſſaries, ſuch as beef, pork, mutton, flour, fowls, indian meal, potatoes, turnips, &amp;c. For the relief of theſe, the committee likewiſe expended a great deal of money, by giving them occaſionally ſuch ſmall ſums as the ſituation of their families ſeemed to require; and ſeveral widows, who upon the death of their huſbands, wiſhed to remove to that place in the country where their relatives and friends reſided; being deſtitute of the means of carrying themſelves and children thither, were alſo aſſiſted.</p>
@@ -777,7 +777,7 @@ own obſervation. The wi<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>ever upon them, I conſider their preſer<g ref="char:EOLhyphen"/>vation, if not miraculous, at leaſt highly providential. Two of them, indeed, <abbr>viz.</abbr> Alderman Gabriel Furman and Alderman Theophilus Beekman, as alſo our worthy May<g ref="char:EOLhyphen"/>or, whoſe attention to the duties of his office during this diſtreſſing period, is above all praiſe, were attacked by the peſtilence, but, thanks to the Almighty, they ſoon re<g ref="char:EOLhyphen"/>covered, and regardleſs of danger, immediately repaired to their poſt, and along with their colleagues went through the fatiguing buſineſs of their appointment with alacrity to the laſt.</p>
             <p>
-               <pb n="60" facs="tcp:035586_0059_1005F661A1F8D2B8"/>
+               <pb n="60" facs="unknown:035586_0059_1005F661A1F8D2B8"/>
 It need ſcarcely be obſerved, that the taſk of the com<g ref="char:EOLhyphen"/>mittee in adminiſtering relief, in ſuch a ſituation, would in many caſes be delicate, embarraſſing and diſagreeable; for had they given indiſcriminately to every perſon who ſolicited aid, liberal as the contributions of our fellow ci<g ref="char:EOLhyphen"/>tizens were, they would have been productive of little utility to thoſe who were really in need.</p>
             <p>The donations were certainly given for the relief of the indigent ſick, and for widows and orphans of this deſcrip<g ref="char:EOLhyphen"/>tion; but ſuch was the meanneſs of ſome poſſeſſed of con<g ref="char:EOLhyphen"/>ſiderable property, and even proprietors of houſes, that they too became applicants for part of a fund excluſively intended for the relief of the helpleſs.</p>
             <p>It was fortunate that every individual of the Committee were either natives of this city, or at leaſt had a long time reſided in it. They were, of courſe, generally qualified to judge how far the tales of woe related by many of the ap<g ref="char:EOLhyphen"/>plicants for charity were true. There were, however, numbers with whom they could not <gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -786,7 +786,7 @@ It need ſcarcely be obſerved, that the taſk of the com<g ref="char:EOLhyphen"
             <p>To aſcertain the truth of their complaints, when they appeared doubtful, the Committee had ſeveral attendants, part of whoſe buſineſs it was to repair to the reſpective re<g ref="char:EOLhyphen"/>ſidences of ſuch applicants, to enquire into their circum<g ref="char:EOLhyphen"/>ſtances and to report accordingly. It was, likewiſe, the duty of theſe perſons to viſit the indigent ſick, to examine into their ſituations, to repreſent their caſes, to relieve their immediate wants out of money entruſted to them for that purpoſe, and in ſhort to do every thing which they might be directed by the Committee, or their own pru<g ref="char:EOLhyphen"/>dence might ſuggeſt, towards the mitigation of the ſuffer<g ref="char:EOLhyphen"/>ings of individuals, or to ſtop the progreſs of the deadly peſtilence.</p>
             <p>The ſituation of theſe men was, no doubt, perilous in the extreme; but ſuch was the goodneſs of Divine Pro<g ref="char:EOLhyphen"/>vidence, that out of eleven ſo employed by the Health Committee and the Health Commiſſioners, one only loſt his life, <abbr>viz.</abbr> Mr. Wynant Mitchell, whoſe character can be ſummed up in a very few words. He was an induſtri<g ref="char:EOLhyphen"/>ous, benevolent and honeſt man, and has left a wife and three children to lament his loſs. Mr. Munmouth Purdy, who volunteered in the ſame ſervice likewiſe fell a victim of his philanthropy.</p>
             <p>
-               <pb n="61" facs="tcp:035586_0060_1005F6640F8F3338"/>
+               <pb n="61" facs="unknown:035586_0060_1005F6640F8F3338"/>
 Having thus deſcribed the manner in which <gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>he poor were relieved throughout the city, it may not be improper to direct the attention of my readers to the ſituation of the poor priſoners in the <hi>Debtor's Apartment,</hi> or what is com<g ref="char:EOLhyphen"/>monly called the <hi>New Gaol.</hi> The diſorder, which pre<g ref="char:EOLhyphen"/>vailed more or leſs, in the city, likewiſe made its appear<g ref="char:EOLhyphen"/>ance here: It, however, in a ſhort time entirely ſubſided, owing in a great meaſure to the indefatigable induſtry of Mr. William W. Parker, the jailor, in cleaning and waſh<g ref="char:EOLhyphen"/>ing the different apartments, by which means the farther ſpreading of the infection was prevented.</p>
@@ -794,7 +794,7 @@ Having thus deſcribed the manner in which <gap reason="illegible" resp="#AELD" 
             <p>But the danger of infection was not the only evil to which theſe unfortunate men were expoſed; for it is well known that though a perſon confined for crimes is ſupport<g ref="char:EOLhyphen"/>ed by the ſtate, a poor debtor has no other dependence than on the benevolence of his friends and the charity of the Humane Society: But upon the approach of this ge<g ref="char:EOLhyphen"/>neral diſtreſs, many of their friends, who would have wil<g ref="char:EOLhyphen"/>lingly aſſiſted them had fled, others were ſick, and ſever<g ref="char:EOLhyphen"/>als no doubt ſo reduced by the general calamity as to be ſcarcely capable of ſupporting themſelves. In this ſitua<g ref="char:EOLhyphen"/>tion, therefore, not only peſtilence, with ſcarcely a proba<g ref="char:EOLhyphen"/>ble chance of eſcape, but alſo famine ſtared them in the face.</p>
             <p>Their caſe was repreſented to the Committee by Mr. Parker, and they were immediately ſupplied with plenty of proviſions; and this was from time to time repeated during the exiſtence of the fever, as often as their neceſſi<g ref="char:EOLhyphen"/>ties ſeemed to require.</p>
             <p>But the priſoners were indebted to Mr. Parker for exer<g ref="char:EOLhyphen"/>tions of a different nature. By his perſonal aſſiduities—
-<pb n="62" facs="tcp:035586_0061_1005F665A1FD56F8"/>
+<pb n="62" facs="unknown:035586_0061_1005F665A1FD56F8"/>
 by his feeling repreſentations to humane creditors, the number of the priſoners, which, as I have already menti<g ref="char:EOLhyphen"/>oned, amounted at firſt to 163, were towards the cloſe of the diſorder reduced to 39, by which means their num<g ref="char:EOLhyphen"/>bers were leſſened and conſequently the danger. Nor was his benevolence confined to perſonal exertions; for he not only in moſt inſtances ſacrificed his own exertions to the general good, by relinquiſhing his fees, which were his chief ſupport, but in ſeveral inſtances he did the duty of others by contributing himſelf towards the payment of lawyers fees, where they only detained the poor.</p>
             <p>Such render treatment, ſuch humane care of indigent and afflicted priſoners cannot be too highly applauded, and whilſt it is the lot of unfortunate individuals to be impriſon<g ref="char:EOLhyphen"/>ed for debt, it muſt be a great conſolation to them to be placed under the care of a man poſſeſſed of ſo much hu<g ref="char:EOLhyphen"/>manity as Mr. Parker. Certainly ſuch conduct ought to be mentioned not only as a tribute of applauſe; but as a ſtimulus to others who may be ſimilarly ſituated, to do the ſame. In a word, Mr. Parker's treatment of his pri<g ref="char:EOLhyphen"/>ſoners, when known, will ever meet with the approbation of all good citizens.<note n="*" place="bottom">Part of this, with reſpect to Mr. Parker's humanity, appeared in ſome of our public prints under a<gap reason="illegible" resp="#AELD" extent="2 letters">
                      <desc>••</desc>
@@ -802,12 +802,12 @@ by his feeling repreſentations to humane creditors, the number of the priſoner
             </p>
             <p>I ſhall now conclude this article, with reſpect to the poor, by a few general obſervations. During the whole of this calamitous period, ſuch was the extraordinary liberality of our fellow citizens in granting donations; and ſuch the unremitting attention of the Committee in diſtributing them, that notwithſtanding the diſtreſſed were by far more numerous than at any previous period in this city; yet there was no individual at a loſs for the neceſſaries of life, for medical aid, or for nurſes, provided the caſe was made known to the Committee, who not only fat with unweari<g ref="char:EOLhyphen"/>ed patience from morning to night to liſten to the inceſſ<g ref="char:EOLhyphen"/>ant applications of hundreds; but as has been already ob<g ref="char:EOLhyphen"/>ſerved, had people employed to ſeek out for objects of diſtreſs.</p>
             <p>
-               <pb n="63" facs="tcp:035586_0062_1005F6686E692250"/>
+               <pb n="63" facs="unknown:035586_0062_1005F6686E692250"/>
 There is one claſs of diſtreſſed objects, whom, as I omitted to mention in the preceding pages it may not be improper to introduce here, <abbr>viz.</abbr> the children of neceſſi<g ref="char:EOLhyphen"/>tous perſons, whoſe parents were cut off by death. Mr. Mathew Carey, in his hiſtory of the Malignant Fever preva<g ref="char:EOLhyphen"/>lent in Philadelphia in the year 1793, obſerves, that the Bettering-Houſe (Alms-Houſe) there, in which ſuch help<g ref="char:EOLhyphen"/>leſs objects had been uſually placed, was barred againſt them; "Many of theſe little innocents (ſays he) were ac<g ref="char:EOLhyphen"/>tually ſuffering for want of even common neceſſaries. The death of their parents and protectors, which ſhould have been the ſtrongeſt recommendation to public charity, was the very reaſon of their diſtreſs, and of their being ſhun<g ref="char:EOLhyphen"/>ned as a peſtilence. The caſe, however, was widely dif<g ref="char:EOLhyphen"/>ferent with us; for no ſooner had the parents of theſe lit<g ref="char:EOLhyphen"/>tle ones expired, than if they were not taken care of by ſome of their friends or relations, there was always ſome perſons of humanity who would repreſent their ca<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
                </gap>e to the Committee, by whoſe orders they were immediately re<g ref="char:EOLhyphen"/>moved to a part in the Alms-Houſe appropriated to their reception.</p>
             <p>By the above remark, however, I would by no means wiſh to be underſtood as throwing any reflection againſt the citizens of Philadelphia for being deficient in point of humanity. On the contrary, many of the inhabitants diſ<g ref="char:EOLhyphen"/>played a benevolence and philanthropy which in ſo awful a period may be equalled, but never can be ſurpaſſed. But the <hi>Yellow Fever</hi> was at that time a new diſorder, or at leaſt little known in the United States: and terrific as it really was, both in its appearance and effects, it ſtill excited more terror than was neceſſary or juſt. Hence in many caſes humanity, friendſhip, parental and filial affection were all ſwallowed up in a regard to ſelf preſervation; and this will ever be the caſe in any country when an all de<g ref="char:EOLhyphen"/>vouring peſtilence makes its <hi>firſt</hi> appearance. But in the laſt autumn the diſorder was better known<g ref="char:punc">▪</g> as it had re<g ref="char:EOLhyphen"/>peatedly viſited ſome of our moſt populous cities, and ex<g ref="char:EOLhyphen"/>perience had ſufficiently evinced, that ſuch perſons as con<g ref="char:EOLhyphen"/>fined themſelves to their houſes, run little, if any greater riſque of infection than thoſe who were conſtantly converſant amongſt the ſick. Hence, if it ſhould be the Divine plea<g ref="char:EOLhyphen"/>ſure, that we ſhould again be viſited either here or in any
-<pb n="64" facs="tcp:035586_0063_1005F66AE8EE8018"/>
+<pb n="64" facs="unknown:035586_0063_1005F66AE8EE8018"/>
 other place of the United States, by this awful diſorder, its horrors will, in all probability, be greatly alleviated, as few will be found ſo timorous as to be unwilling to diſ<g ref="char:EOLhyphen"/>charge the duties of humanity to the diſtreſſed.</p>
             <p>Before I conclude this article, I cannot help taking no<g ref="char:EOLhyphen"/>tice of the diſtreſs in which ſome poor people were involv<g ref="char:EOLhyphen"/>ed in conſequence of the rigid manner in which ſome un<g ref="char:EOLhyphen"/>feeling landlords have exacted their rents. Forgetful that their poor tenants had been ſick, that they had large fami<g ref="char:EOLhyphen"/>lies and that they had been able to earn nothing during a calamitous ſeaſon of three months, they notwithſtanding inſiſted on the immediate payment of the original ſtipula<g ref="char:EOLhyphen"/>ted bargain: In conſequence of which, the little property which theſe poor people poſſeſſed were ſold by the conſta<g ref="char:EOLhyphen"/>ble at vendu<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <desc>•</desc>
@@ -816,7 +816,7 @@ other place of the United States, by this awful diſorder, its horrors will, in 
             </p>
          </div>
          <div n="3" type="part">
-            <pb facs="tcp:035586_0064_1005F66E588B43A0"/>
+            <pb facs="unknown:035586_0064_1005F66E588B43A0"/>
             <head>DONATIONS.</head>
             <list>
                <item>
@@ -854,7 +854,7 @@ other place of the United States, by this awful diſorder, its horrors will, in 
                      <desc>•</desc>
                   </gap>t load of turnips, cabbages and other vegetables.</item>
                <item>
-                  <pb n="66" facs="tcp:035586_0065_1005F670D1CFCC98"/>
+                  <pb n="66" facs="unknown:035586_0065_1005F670D1CFCC98"/>
                   <hi>Octob.</hi> 4. Capt. Thomas Smith, 51 heads of cabbages, 1 baſket of carrots, 2 buſhels turnips, rad<g ref="char:EOLhyphen"/>diſhes, thyme, &amp;c.</item>
                <item>Mr. Iſaac Kibbe, by R. Underhill, 1 bbl. pork.</item>
                <item>5. Mr. George Goſman, 90 fowls, 11 ducks, 20 lb. of butter, and dols 30.</item>
@@ -882,7 +882,7 @@ other place of the United States, by this awful diſorder, its horrors will, in 
                <item>The inhabitants of the town of Rahway by Mr. William Shotwell 3 barrels, and 1 cwt. Indian meal, 3 do. rye meal, 23 ſheep and lambs, 366 fowls, 58 and a half buſhels of apples, 20 ducks, 20 pumpkins, 1 barrel of vinegar, 163 buſhels potatoes, 2 barrels corn, ſome beets, ſtraw and catnip.</item>
                <item>The Inhabitants of the town of Fluſhing, by Meſſieurs Effingham Embree and Abraham</item>
                <item>
-                  <pb n="67" facs="tcp:035586_0066_1005F67326BA0830"/>
+                  <pb n="67" facs="unknown:035586_0066_1005F67326BA0830"/>
                   <hi>Octob.</hi> 6. Franklin, 26 ſheep, 78 fowls, 37 buſhels of potatoes, 16 bbls. Indian meal, 5 do flour, a quantity of vegetables, ſtraw, catnip and &amp;c. alſo, the following, directed to the Mayor, 45 ſheep, 74 buſh. potatoes, 87 fowls, 21 bls. Indian meal, 8 barrels rye meal, 4 barrels of flour, 4 barrels apples and 85 cabbages.</item>
                <item>8. Flaman Ball, <abbr>Eſq.</abbr> by the Mayor, dols. 10</item>
                <item>Mr. William Williams, by G. Furman, 30</item>
@@ -899,7 +899,7 @@ other place of the United States, by this awful diſorder, its horrors will, in 
                <item>The Inhabitants of Pleaſant Valley, town of Clinton, Ducheſs county, by Meſſieurs John Wood, Jacob R. Duryee, and William Ely, 4 barrels Indian meal, 42 lb. of butter, 8 cheeſes, 138 fowls, 3 turkeys, 2 ducks, 3 ſheep, 30 lb. of pork, 1 bag of corn and a parcel of potatoes.</item>
                <item>9. The Inhabitants of the city of Hudſon, by Thomas Jenkins, <abbr>Eſq.</abbr> Mayor, directed to Mr. R. Underhill, 18 barrels rye meal. 8 do. Indian meal, 1 do. beans, 3 do. wheat flour, 1 do. herbs, 26 ſheep, 12 cheeſes, 3 hams, 24 buſhel of potatoes, 7 bottles caſ<g ref="char:EOLhyphen"/>tor oil, 2 cords of wood and 8 fowls.</item>
                <item>
-                  <pb n="68" facs="tcp:035586_0067_1005F676DD1E48E0"/>
+                  <pb n="68" facs="unknown:035586_0067_1005F676DD1E48E0"/>
                   <hi>Octob.</hi> 9 The Inhabitants of the town of Fiſhkill, by Meſſieurs Joſeph Jackſon, W. B. Ver<g ref="char:EOLhyphen"/>planck, and John Drake, Jun. 184 fowls, 83 buſhels potatoes, 63 cabbages, 50 lb. of beef, 3 buſhels of corn, 15 ſheep and lambs, 5 turkeys, 2 barrels Indian meal, 55 lb. of pork, 1 load of wood, 1 barrel of cyder, 4 cheeſes, 30 buſhels of apples, 20 lb but<g ref="char:EOLhyphen"/>ter, 3 hams, 4 1-2 buſhels wheat, 41 lb. of flour, 8 ducks and caſh, 71 dols. 37 cents.</item>
                <item>The Inhabitants of the town of Fiſhkill, by Meſſieurs Dan. C. Verplanck and Mar<g ref="char:EOLhyphen"/>tin Wiltz, 30 ſheep, 2 pigs, 123 fowls, 1 turkey, 98 buſhels potatoes, 3 buſhels and 2 barrels apples, 1 barrel rye-meal, 3 1-2 buſhels Indian meal, 15 pound butter, 3 cwt. flour, and 1 barrel do. with dols. 57 and 25 cents.</item>
                <item>The Inhabitants of the town of Poughkeepſie, Waſhington and Standford, by Meſſieurs Wm. <gap reason="illegible" resp="#AELD" extent="1 letter">
@@ -917,7 +917,7 @@ other place of the United States, by this awful diſorder, its horrors will, in 
                <item>The Gentlemen Boarders at New Utrecht Mount, by Mr. J Pater, incloſed to Ald. G. Furman, dols. 81.</item>
                <item>The inhabitants of the townſhip of New Ut<g ref="char:EOLhyphen"/>recht, by Meſſrs. Simon Cortelyou, Aurt<g ref="char:punc">▪</g> Van Pelt, and William Cropſey, 6 ſheep,</item>
                <item>
-                  <pb n="69" facs="tcp:035586_0068_1005F679617D3A18"/>
+                  <pb n="69" facs="unknown:035586_0068_1005F679617D3A18"/>
                   <hi>Octob.</hi> 9. 159 buſhels potatoes, 30 do. apples, 124 fowls, 140 cabbages, 350 eggs, 2 1-2 cwt. rye meal, 4 buſhels turnips, 1 barrel ſhad, 2 geeſe, with a parcel of pumkins.</item>
                <item>10. Mr. A. B. at Norfolk by Mr. David Harriod, dols. 5</item>
                <item>An afflicted widow, by the Mayor, dols. 20</item>
@@ -941,7 +941,7 @@ other place of the United States, by this awful diſorder, its horrors will, in 
                   </gap>onk, and Robert Burrel, <abbr>Eſq.</abbr>
                </item>
                <item>
-                  <pb n="70" facs="tcp:035586_0069_1005F67AF2E37740"/>
+                  <pb n="70" facs="unknown:035586_0069_1005F67AF2E37740"/>
                   <hi>Octob.</hi> 11. 24 ſheep, 110 buſhels of potatoes, 10 do. wheat, 10 do. rye, 34 fowls, 70 1-2 lb. of pork, 16 1-2 lb. of butter, 3 1-2 buſhels corn, 3 1-2 do. beans, 1 barrel ſhad, 1 do. wheat, 114 lb wheat flour, with a quantity of vegetables and caſh, dols. 11</item>
                <item>Mr. James Stuart, 20 doz. 6<hi>d.</hi> loaves of bread.</item>
                <item>12. Mr. John Town of Hobocken ferry, 100 very excellent cabbages.</item>
@@ -962,7 +962,7 @@ other place of the United States, by this awful diſorder, its horrors will, in 
                      <desc>〈◊〉</desc>
                   </gap> rice, 4 cheeſes, 2 bags meal, 5 loads</item>
                <item>
-                  <pb n="71" facs="tcp:035586_0070_1005F67CCCCC4E60"/>
+                  <pb n="71" facs="unknown:035586_0070_1005F67CCCCC4E60"/>
                   <hi>Octob.</hi> 14. <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> potatoes, 1 load of cabbages, 8 ſheep, 1 load apples, 1 load pumkins, 30 bunches onions, ſome looſe beets, 3 quarters mut<g ref="char:EOLhyphen"/>ton, 1 piece of beef, 4 pieces of pork and 4 bundles herbs.</item>
@@ -980,7 +980,7 @@ other place of the United States, by this awful diſorder, its horrors will, in 
                      <desc>•••</desc>
                   </gap>beck and Clinton towns, Dutcheſs coun<g ref="char:EOLhyphen"/>ty. by Wm. Radcliff, Everardus Bogardus,</item>
                <item>
-                  <pb n="72" facs="tcp:035586_0071_1005F681B47BCA80"/>
+                  <pb n="72" facs="unknown:035586_0071_1005F681B47BCA80"/>
                   <hi>Octob.</hi> 16. Hans Rienſtend and Cyrus Hart, their com<g ref="char:EOLhyphen"/>mittee, 2 heads of cattle, 59 ſheep, 356 fowls, 246 buſhels potatoes, 16 1-2 buſhels turnips, 29 pumkins, 21 cabbages, 15 bar<g ref="char:EOLhyphen"/>rels apples, 16 buſhels do. 1 buſhel rye, 1 pig, 13 lb. butter, 2 bbls. middling, 5 pieces pork, 6 barrels flour, 2 turkeys, 19 buſhels corn, 6 1-2 loads wood, 4 barrels rye meal, 6 cheeſes, 2 buſhels flour, 2 do. buckwheat, 1 barrel indian meal, 2 1-4 cwt and 1-2 tierce rice, 1 tub butter, 2 buſhels wheat, 2 geeſe, 27 dols. 84 cents, and an order on Thomas Maul, <abbr>Eſq.</abbr> from A Marwreller for dols. 10</item>
                <item>17. Frederic Guion, New Rochelle, directed to Nicholas Carmer, 2 bls. indian meal, 2 bls and 2 bags potatoes, 1 bbl. vinegar.</item>
                <item>Newark. directed to Nicholas Carmer, pota<g ref="char:EOLhyphen"/>toes, pumkins, apples, indian meal, fowls, 24 pairs of ſhoes, and dols. 3, cents 56</item>
@@ -994,7 +994,7 @@ other place of the United States, by this awful diſorder, its horrors will, in 
                <item>Staten Iſland, a collection made by the Rev. Richard Moore, rector of St. Andrews church, Richmond, by Mr. John M'Vickar, directed to alderman G. Furman, dols. 100</item>
                <item>Capt. Leonard Davis, Poughkeepfie, 24 buſh. potatoes, 4 cheeſes, 2 ſheep, 1 bag flour, 9 fowls, and 11 cabbages.</item>
                <item>
-                  <pb n="73" facs="tcp:035586_0072_1005F6842B26E3E8"/>
+                  <pb n="73" facs="unknown:035586_0072_1005F6842B26E3E8"/>
                   <hi>Octob.</hi> 19. A ſmall number of the inhabitants of Phillip's town, Dutcheſs county, by their committee, John Leckley, and Joſhua Horton, 3 tubs butter, 8 or 10 buſhels ſauce, 8 fowls, and 1 bag indian meal.</item>
                <item>The inhabitants of the town of Claverack, and Hudſon. forwarded by S. Edwards, <abbr>Eſq.</abbr> 4 barrels rye flour, 1 1-2 barrels wheat flour, 3 1-2 barrels indian meal, 47 buſhels pota<g ref="char:EOLhyphen"/>toes, 1 buſhel carrots, 3 ſheep, 15 fowls, 30 pumkins, 1 barrel beans, 1 ham, ſome cabbages, &amp;c.</item>
                <item>The Mechanic ſociety of Hudſon, forwarded by Samuel Wigton, their ſecretary, 20 ſheep.</item>
@@ -1018,7 +1018,7 @@ other place of the United States, by this awful diſorder, its horrors will, in 
                <item>Mr. John M'Leod, dols.10</item>
                <item>Mr. Collin Gilleſpie, dols. 50</item>
                <item>
-                  <pb n="74" facs="tcp:035586_0073_1005F685B87EA580"/>
+                  <pb n="74" facs="unknown:035586_0073_1005F685B87EA580"/>
                   <hi>Octob.</hi> 19. The inhabitants of Shenectady, directed to the mayor, dols. 43<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
                   </gap>
@@ -1042,7 +1042,7 @@ other place of the United States, by this awful diſorder, its horrors will, in 
                <item>The towns of Pawling and Beekman, Dutcheſs county, 17, buſhels potatoes, 19 1-4 do. rye and corn, 2 do onions, 8 cheeſes, 28 fowls, 4 1-2 lb. butter, 1 bag flour, 2 pieces pork, and 10 cabbages.</item>
                <item>A part of the inhabitants of the town of Beek<g ref="char:EOLhyphen"/>man, Dutcheſs county, by Meſſrs. Jeſſe</item>
                <item>
-                  <pb n="75" facs="tcp:035586_0074_1005F68853CBB020"/>
+                  <pb n="75" facs="unknown:035586_0074_1005F68853CBB020"/>
                   <hi>Octob.</hi> 22. Oakley, Hezekiah Collin, Martinus Ove<g ref="char:EOLhyphen"/>rocker, Samuel Auſtin Barker, and Joſeph Porter their committee, 4 barrels wheat flour, 2 do. indian meal, 1 do. rye do. 11 ſheep, 72 buſhels potatoes, 6 do. wheat, 12 do. corn, <gap reason="illegible" resp="#AELD" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> 1-2 do. buckwheat, 3 do. rye, 17 cheeſes, 38 fowls, 1 turkey, 2 pigs, 2lb. butter, 1-2 buſhel turnips, 72lb. buckwheat meal, 20lb. ſalt pork, with dols 3, cts. 50</item>
@@ -1062,7 +1062,7 @@ other place of the United States, by this awful diſorder, its horrors will, in 
                <item>The inhabitants of Buſhwick, (L. I.) by Peter I. Schenk, and John Skillman, Eſqrs. 42 buſhels indian meal, 143 do. potatoes, 44 do. turnips, 149 1-2 do. apples, 120 cabbages, 36 pumkins, 16 fowls, 2lb. butter, 20lb. pork, 100 do rye meal, 1 ſmall bundle of tea, and dols. 38, cts. 75</item>
                <item>A friend, by T. B. 25 cents.</item>
                <item>
-                  <pb n="76" facs="tcp:035586_0075_1005F68BC3119178"/>
+                  <pb n="76" facs="unknown:035586_0075_1005F68BC3119178"/>
                   <hi>Octob.</hi> 24. The inhabitants of Fiſhkill, 1 load potatoes, 6 fowls, 8 cabbages, and 1 roll of butter.</item>
                <item>The inhabitants of Union village, in Armeni<gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
@@ -1079,7 +1079,7 @@ other place of the United States, by this awful diſorder, its horrors will, in 
                <item>The inhabitants of Schenectady 20 barrels flour, 1-2 barrel beef, 1 hogſhead and 2 bar<g ref="char:EOLhyphen"/>rels patatoes, 22 cheeſes.</item>
                <item>General Gordon, near Albany 2 barrels flour.</item>
                <item>
-                  <pb n="77" facs="tcp:035586_0076_1005F68E47551728"/>
+                  <pb n="77" facs="unknown:035586_0076_1005F68E47551728"/>
                   <hi>Octob.</hi> 27. Flatbuſh (L. I.) by Judge Lott and John Van<g ref="char:EOLhyphen"/>derbilt <abbr>Eſq.</abbr> 3 bags indian meal, 3 do. rye. 1 peck of beans, 1 pig of 70 pound, 41 buſhels turnips, 140 do. potatoes, 13 do. apples, 12 fowls, 36 cabbages, and 100 pumpkins.</item>
                <item>From Col. Aquilla Ciles, at Flatbuſh, 101 dols. collected from the following perſons.—</item>
                <item>Aquilla Giles, dols. 25</item>
@@ -1109,7 +1109,7 @@ other place of the United States, by this awful diſorder, its horrors will, in 
                <item>Mrs. Stevens. Clermont, 20</item>
                <item>Sundry inhabitants of Clermont, 8 buſhels pota<g ref="char:EOLhyphen"/>toes, 2 1-2 do. corn, 1 1-2 do. wheat, 19 1-2 do potatoes, 3 do. turnips, 1 do. wheat, 4 do. buckwheat, 8 do. corn, 1 ham, 22 1-2 buſhel, buckwheat, 13 do rye, 17 1-2 do.</item>
                <item>
-                  <pb n="78" facs="tcp:035586_0077_1005F68FD2F74538"/>
+                  <pb n="78" facs="unknown:035586_0077_1005F68FD2F74538"/>
                   <hi>Octob.</hi> 27. corn, 23 1-2 do. potatoes, 14 fowls, 18 lb. of pork, and dols. 20, 50 cents.</item>
                <item>The village of Pleaſant Valley, by Mr. Henry Walters, 1 bbl. rye meal, 14 1-2 buſhels pota<g ref="char:EOLhyphen"/>toes, 1-2 do. turnips, 14 fowls, 12 cabbages, 1-2 buſhel dried apples, and 1-2 do. buckwheat.</item>
                <item>The town of Florida, Montgomery county, by Meſſieurs Stephen Reynolds, D. Cady, Dani<g ref="char:EOLhyphen"/>el M'Maſter and Chriſtian Service, to the Mayor, on board of Capt. James Moore, 54 dollars, with the farther ſum of 52 dollars and 32 cents, being the nett proceeds of 54 buſhels of wheat, ſold by capt. Moore.—Alſo. from ſeveral citizens of Albany, by the ſame conveyance, being the nett proceeds of 10 buſhels wheat, dols. 9, 68 cents. 4 buſhels of rye, 2 do. corn, 6 do. potatoes, and 1 do. turnips.</item>
@@ -1130,7 +1130,7 @@ other place of the United States, by this awful diſorder, its horrors will, in 
                      <desc>〈◊〉</desc>
                   </gap> cheeſes, and Zephaniah Platt and Solomon Sutherland. Eſqs. each 4 quarters of beef.</item>
                <item>
-                  <pb n="79" facs="tcp:035586_0078_1005F6919DED02C0"/>
+                  <pb n="79" facs="unknown:035586_0078_1005F6919DED02C0"/>
                   <hi>Octob.</hi> 
                   <gap reason="illegible" resp="#AELD" extent="1 letter">
                      <desc>•</desc>
@@ -1149,7 +1149,7 @@ other place of the United States, by this awful diſorder, its horrors will, in 
                <item>Carmel town, Dutcheſs county, by Meſſieurs John Crane, Devou Bailey and Michael Vandevoort, their committee, 1 bbl. flour, 44 fowls, 4 bbls. rye meal, 9 do. buckwheat meal, 3 cheeſes, 34 buſhels potatoes, 2 ſheep, 28 fowls, 2 bbls. Indian meal, 1 do. buck<g ref="char:EOLhyphen"/>wheat meal, 1 cwt. do. 1cwt. flour, 1 cwt. of rye-meal, and 1 dol.</item>
                <item>The inhabitants of Ryeneck by Meſſrs. Samuel Deal, and Theophilus Marſelis, 1 fat ſteer, 1 ſide of beef, 2 bbls. of flour, 10 do. indian meal, 2 do. vinegar, 30 buſhels potatoes, 1</item>
                <item>
-                  <pb n="80" facs="tcp:035586_0079_1005F6933108EAE0"/>
+                  <pb n="80" facs="unknown:035586_0079_1005F6933108EAE0"/>
                   <hi>Nov.</hi> 2 fat ſheep, 14 fowls, a load of wood, ſome cab<g ref="char:EOLhyphen"/>bages and dolls. 18</item>
                <item>Henry Cruger, <abbr>Eſq.</abbr> by Ald. G. Furman, 50</item>
                <item>The inhabitants of Shelter iſland, Suffolk Coun<g ref="char:EOLhyphen"/>ty, by Col. Sylveſter Dering, tranſmitted to the mayor, dolls. 50</item>
@@ -1169,7 +1169,7 @@ other place of the United States, by this awful diſorder, its horrors will, in 
                <item>Rev. Mr. Moherring, of Staten Iſland, by the Rev. Mr. James Birkby, dolls. 23 37 cents.</item>
                <item>The gentlemen compoſing the fire company No. 14, by Meſſrs. Abraham Brower, John P. Roomes, Uriah Coddington, jun. &amp; William P. Roome, their committee, dolls. 46 73 cnts.</item>
                <item>
-                  <pb n="81" facs="tcp:035586_0080_1005F69937733C78"/>
+                  <pb n="81" facs="unknown:035586_0080_1005F69937733C78"/>
                   <hi>Nov.</hi> 6. A friend to the poor, by Ald. Furman, dolls. 100</item>
                <item>Mr. Wm. A. Hardenbrook, by do. dolls. 15</item>
                <item>Mr. John Mills, by Mr. Arcularius, dolls. 20</item>
@@ -1188,7 +1188,7 @@ other place of the United States, by this awful diſorder, its horrors will, in 
                <item>Mr. William Shedden, by Ald. G. Furman, dolls. 50</item>
                <item>Mr. Frederick Van Cortlandt, of Yonkers, Weſt Cheſter county, by Mr. Henry White, dolls. 50</item>
                <item>
-                  <pb n="82" facs="tcp:035586_0081_1005F69BCC79B9C0"/>
+                  <pb n="82" facs="unknown:035586_0081_1005F69BCC79B9C0"/>
                   <hi>Nov.</hi> 12. Capt. Wm. Legg, from Saugertie, Ulſter County, one load of wood, from Benjamin Snider.</item>
                <item>John Brink, 1 barrel of potatoes.</item>
                <item>James Remſen, 1 buſhel do.</item>
@@ -1203,7 +1203,7 @@ other place of the United States, by this awful diſorder, its horrors will, in 
                <item>The inhabitants of Albany, by Captain Moore 2 barrels of flour, and 4 cheeſes.</item>
                <item>The inhabitants of the town of Brooklyn, King's county, collected by Mr. Tunis Bergan, Fer<g ref="char:EOLhyphen"/>nandus Suydam, John Wicks, Peter Wyckoff John Cornell, John Dougherty, and Martin Schenck, dolls. 581 cents 78</item>
                <item>
-                  <pb n="83" facs="tcp:035586_0082_1005F69DA84C5C48"/>
+                  <pb n="83" facs="unknown:035586_0082_1005F69DA84C5C48"/>
                   <hi>Nov.</hi> 16. The congregation of Clarks-Town, Rockland county, by Iſaac Blanch, <abbr>Eſq.</abbr> 23 bags of flour, 1 1-2 bags of Indian meal, 11 bags of potatoes, ¾ of a load of wood, and dols. 5</item>
                <item>17. A gentleman at Newtown, by Mr. C. Van Wag<g ref="char:EOLhyphen"/>anen, dolls. 8</item>
                <item>From the town of Mindon in Albany county, by Meſſieurs Robert M'Farlane and Conrad Ganſevoort, dols. 56</item>
@@ -1216,7 +1216,7 @@ other place of the United States, by this awful diſorder, its horrors will, in 
                <item>23. From the town of New-Rochelle, a collection made by Newbury Devenport <abbr>Eſq.</abbr> and brought by Meſſrs. James P<gap reason="illegible" resp="#AELD" extent="2 letters">
                      <desc>••</desc>
                   </gap>e, and John Palmer who gave the freight, 62 Buſhels of Potatoes, 15 do. of Turnips 33 do. of Indi<g ref="char:EOLhyphen"/>an
-<pb n="84" facs="tcp:035586_0083_1005F6A00C8AB568"/>
+<pb n="84" facs="unknown:035586_0083_1005F6A00C8AB568"/>
 Corn ground, and delivered in 10 Barrels of Indian Meal, one ſheep, alſo 10 Buſhels of Turnips by another conveyance, and 49 dols. 50 cents.</item>
                <item>24. From the Preſbyterian Congregation at Hunt<g ref="char:EOLhyphen"/>ington L. I. forwarded by Ebenezer Platt <abbr>Eſq.</abbr> on board of Capt. Jacob Johnſon, 18 loads of wood, a pair of ſhoes, 1½ Buſhels of Turnips and 1½ do. of Potatoes.</item>
                <item>A friend to the poor, one Barrel of Buck<g ref="char:EOLhyphen"/>wheat Meal, ſent to the Alms Houſe.</item>
@@ -1233,7 +1233,7 @@ Corn ground, and delivered in 10 Barrels of Indian Meal, one ſheep, alſo 10 Bu
                <item>By the Hon. Selah Strong <abbr>Eſq.</abbr> from the inha<g ref="char:EOLhyphen"/>bitants of Southhold River Head and Brook<g ref="char:EOLhyphen"/>haven in Suffolk County, 130 dols. 36 cents.</item>
                <item>The inhabitants of the town of Fiſhkill, from William B. Verplanck, Joſeph Jackſon and John Drake Jun. their committee, by the</item>
                <item>
-                  <pb n="85" facs="tcp:035586_0084_1005F6A368693ED0"/>
+                  <pb n="85" facs="unknown:035586_0084_1005F6A368693ED0"/>
                   <hi>Dec.</hi> 3. hands of John Drake Jun. for part of a load of wood 5s. and 20 dols.</item>
                <item>5. The Preſbyterian Church in Morris town in Morris County New-Jerſey by Mr. Mathew Crane to the Mayor, 57 dols.</item>
                <item>From I. L. by T. B. dols. 5</item>
@@ -1243,7 +1243,7 @@ Corn ground, and delivered in 10 Barrels of Indian Meal, one ſheep, alſo 10 Bu
             </list>
          </div>
          <div n="4" type="part">
-            <pb facs="tcp:035586_0085_1005F6A4F754D350"/>
+            <pb facs="unknown:035586_0085_1005F6A4F754D350"/>
             <head>A LIST OF THE NAMES OF THE PERSONS INTERRED IN THE SEVERAL BURYING GROUNDS IN THE CITY OF NEW-YORK, AND AT BELLEVUE, AND POTTERS-FIELD,</head>
             <opener>
                <dateline>
@@ -1267,7 +1267,7 @@ Corn ground, and delivered in 10 Barrels of Indian Meal, one ſheep, alſo 10 Bu
                   <item>Ackerman William, 249 Greenwich-Street.</item>
                   <item>Ackle Mary, widow AEt, 69.</item>
                   <item>
-                     <pb n="88" facs="tcp:035586_0086_1005F6A85A58A4E8"/>
+                     <pb n="88" facs="unknown:035586_0086_1005F6A85A58A4E8"/>
 Ackley Mr. Clerk, Wall-Street, AEt, 22.</item>
                   <item>Adams Robert, maſon 63 Murray-Street, AEt. 40.</item>
                   <item>Adams Mr. a child of.</item>
@@ -1319,7 +1319,7 @@ Ackley Mr. Clerk, Wall-Street, AEt, 22.</item>
                   <item>Andrews C. ſurgeon, 208, Water-ſtreet, <hi>England.</hi>
                   </item>
                   <item>
-                     <pb n="89" facs="tcp:035586_0087_1005F6A9EA65F160"/>
+                     <pb n="89" facs="unknown:035586_0087_1005F6A9EA65F160"/>
 Angus James, grocer, oppoſite the hoſpital. <hi>Scotland,</hi>
                   </item>
                   <item>Anthony Nicholas, N. Anthony the ſon of, 34 Frankfort ſtreet.</item>
@@ -1365,7 +1365,7 @@ Angus James, grocer, oppoſite the hoſpital. <hi>Scotland,</hi>
                   <item>Banks Wm. E. Waſhington-ſtreet.</item>
                   <item>Banta John, apprentice to Mr. Bayley, carpenter. Greenwich ſtreet.</item>
                   <item>
-                     <pb n="90" facs="tcp:035586_0088_1005F6AC486E14C0"/>
+                     <pb n="90" facs="unknown:035586_0088_1005F6AC486E14C0"/>
 Barber Silas, the ſon of, 39 Robinſon ſtreet.</item>
                   <item>Barber Thomas, the child of, Gold ſtreet.</item>
                   <item>Barber Mr. a child of, Bellevue.</item>
@@ -1407,7 +1407,7 @@ Barber Silas, the ſon of, 39 Robinſon ſtreet.</item>
                   <item>Bell Mr. aet 26.</item>
                   <item>Bell Mr. aet 52.</item>
                   <item>
-                     <pb n="91" facs="tcp:035586_0089_1005F6AEC116B3A8"/>
+                     <pb n="91" facs="unknown:035586_0089_1005F6AEC116B3A8"/>
 Bell Robert Carter, 16 Pearl ſtreet, aet 22.</item>
                   <item>Belvidere Mrs. 43 Water ſtreet.</item>
                   <item>Benſon Samuel, a black man, Bellevue.</item>
@@ -1451,7 +1451,7 @@ Bell Robert Carter, 16 Pearl ſtreet, aet 22.</item>
                   <item>Bogart Mrs. widow of Peter.</item>
                   <item>Bogart widow Mary, 71 William ſtreet.</item>
                   <item>
-                     <pb n="92" facs="tcp:035586_0090_1005F6B128EADE68"/>
+                     <pb n="92" facs="unknown:035586_0090_1005F6B128EADE68"/>
 Boggs John, from Mr. Bach's, 55 Pine ſtreet.</item>
                   <item>Boggs Henry.</item>
                   <item>Bohanna George, 9 Auguſtus ſtreet.</item>
@@ -1498,7 +1498,7 @@ Boggs John, from Mr. Bach's, 55 Pine ſtreet.</item>
                   <item>Bright Sophia, mantuamaker, 66 Ann-ſtreet.</item>
                   <item>Bright Mrs. 15 Gold-ſtreet.</item>
                   <item>
-                     <pb n="93" facs="tcp:035586_0091_1005F6B2CBE1B3C8"/>
+                     <pb n="93" facs="unknown:035586_0091_1005F6B2CBE1B3C8"/>
 Bright Mr. a child of, AEt. 1 year.</item>
                   <item>Briggs Mary, from Weſtcheſter,</item>
                   <item>Briggs Mr. the black girl of, Partition-ſtreet.</item>
@@ -1545,7 +1545,7 @@ Bright Mr. a child of, AEt. 1 year.</item>
                   <item>Budden William, of the ſloop Bridget of New-York.</item>
                   <item>Bull Mr. a child of, AEt. 2 years.</item>
                   <item>
-                     <pb n="94" facs="tcp:035586_0092_1005F6B5D8E185A8"/>
+                     <pb n="94" facs="unknown:035586_0092_1005F6B5D8E185A8"/>
 Burdon Dominick, Bellevue.</item>
                   <item>Burch Mr. aet 52.</item>
                   <item>Burchell Mrs. aet 44.</item>
@@ -1594,7 +1594,7 @@ Burdon Dominick, Bellevue.</item>
                   <item>Campbell Samuel, bookſeller, wife of, 124 Pearl ſtreet.</item>
                   <item>Campbell Mrs. aged 82.</item>
                   <item>
-                     <pb n="95" facs="tcp:035586_0093_1005F6B95F98CE60"/>
+                     <pb n="95" facs="unknown:035586_0093_1005F6B95F98CE60"/>
 Canada Mrs. a child of, aet. 5.</item>
                   <item>Canbie Margaret, Bancker ſtreet.</item>
                   <item>Cannon Mr. aet. 74.</item>
@@ -1639,7 +1639,7 @@ Canada Mrs. a child of, aet. 5.</item>
                   <item>Chapman Henry, aet 52, merchant.</item>
                   <item>Chappin Tarretta, Powles Hook.</item>
                   <item>
-                     <pb n="96" facs="tcp:035586_0094_1005F6BCEA114598"/>
+                     <pb n="96" facs="unknown:035586_0094_1005F6BCEA114598"/>
 Charles, a mulatto, Bellevue.</item>
                   <item>Charles, a Swede, Bellevue.</item>
                   <item>Charters John, student of medicine, Barclay ſtreet.</item>
@@ -1685,7 +1685,7 @@ Charles, a mulatto, Bellevue.</item>
                   <item>Cole Benjamin, from Jacob Jones's 15 Front Street.</item>
                   <item>Cole Peter, keeper of bridewell, a child of.</item>
                   <item>
-                     <pb n="97" facs="tcp:035586_0095_1005F6BECCE168B8"/>
+                     <pb n="97" facs="unknown:035586_0095_1005F6BECCE168B8"/>
 Coen Deborah, wife of, Daniel, ſilverſmith, 95 Maiden lane.</item>
                   <item>Coleman Bethuel, mariner of the brig Felicity, bellevue.</item>
                   <item>Collard John, taylor, 52 <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -1732,7 +1732,7 @@ Coen Deborah, wife of, Daniel, ſilverſmith, 95 Maiden lane.</item>
                   <item>Cottle Thomas, from the hoſpital.</item>
                   <item>Cotton Elenor bellevue.</item>
                   <item>
-                     <pb n="98" facs="tcp:035586_0096_1005F6C21E7FCCE0"/>
+                     <pb n="98" facs="unknown:035586_0096_1005F6C21E7FCCE0"/>
 Cou<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>ee Abigail, a black woman.</item>
@@ -1776,7 +1776,7 @@ Cou<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>••</desc>
                      </gap>ſs, wife of Wm. marſhall, 45 Rutger ſtreet.</item>
                   <item>
-                     <pb n="99" facs="tcp:035586_0097_1005F6C3AD1E1450"/>
+                     <pb n="99" facs="unknown:035586_0097_1005F6C3AD1E1450"/>
 Cummings Mr. a child of, AEt. 4.</item>
                   <item>Curles James, Whitehall ſtreet.</item>
                   <item>Currie Francis, the wife of, E. Rutger ſtreet.</item>
@@ -1824,7 +1824,7 @@ Cummings Mr. a child of, AEt. 4.</item>
                   <item>Debow Robert, aged 20, ſon of Garrit, and his daughter Mary, aged 16, and a wench.</item>
                   <item>Debroſſes Mr. aged 18, decay.</item>
                   <item>
-                     <pb facs="tcp:035586_0098_1005F6F4B83EB268"/>
+                     <pb facs="unknown:035586_0098_1005F6F4B83EB268"/>
 De Buen Mary, Bellevue.</item>
                   <item>Degrote Pompey, a black, labourer.</item>
                   <item>Degrove Harman, Little Catharine-street.</item>
@@ -1865,7 +1865,7 @@ De Buen Mary, Bellevue.</item>
                   <item>Donaldſon George, near the North River Furnace.</item>
                   <item>Donaldſon Daniel, Bellevue.</item>
                   <item>
-                     <pb n="101" facs="tcp:035586_0099_1005F6C541E8B178"/>
+                     <pb n="101" facs="unknown:035586_0099_1005F6C541E8B178"/>
 Donavan Jerome, aged 22.</item>
                   <item>Donavan Richard, 69 Cherry ſtreet, aged 68.</item>
                   <item>Donavan Timothy, tobaconiſt, 61 Catharine-street.</item>
@@ -1911,7 +1911,7 @@ Donavan Jerome, aged 22.</item>
                   <item>Eddy Nancy, 34 Lumber-ſtreet.</item>
                   <item>Edwards John, Sixth-ſtreet Bowery.</item>
                   <item>
-                     <pb n="102" facs="tcp:035586_0100_1005F6C6D2B29F00"/>
+                     <pb n="102" facs="unknown:035586_0100_1005F6C6D2B29F00"/>
 Edwards Betty Catharine-ſtreet.</item>
                   <item>Egbert Benjamin, grocer a child of, 54 Fair-ſtreet.</item>
                   <item>Eichell Henry, blackſmith, 28 Fair-ſtreet, <hi>Germany.</hi>
@@ -1956,7 +1956,7 @@ Edwards Betty Catharine-ſtreet.</item>
                   <item>Ferris Samuel ſen. Suſan and Phebe, daughters of, Greenwich-street, C.</item>
                   <item>Fifer Mrs. aged 84.</item>
                   <item>
-                     <pb n="103" facs="tcp:035586_0101_1005F6CB8E9477B8"/>
+                     <pb n="103" facs="unknown:035586_0101_1005F6CB8E9477B8"/>
 Filton Alexander, 101 Water ſtreet.</item>
                   <item>Fink Barney, 42 Rutger-ſtreet, and child Mary.</item>
                   <item>Fincher Mr. aged 42.</item>
@@ -2002,7 +2002,7 @@ Filton Alexander, 101 Water ſtreet.</item>
                   <item>Fraſer John Broadway, near the Union Furnace.</item>
                   <item>Fraſer Alexander, the wife of, Lumber-street.</item>
                   <item>
-                     <pb n="104" facs="tcp:035586_0102_1005F6CE021DA810"/>
+                     <pb n="104" facs="unknown:035586_0102_1005F6CE021DA810"/>
 Freck Jacob, the child of, Mulberry-street.</item>
                   <item>Fre<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
@@ -2053,7 +2053,7 @@ Freck Jacob, the child of, Mulberry-street.</item>
                   <item>Getfield Mr. a child of, aged 9 months.</item>
                   <item>Getham Ann, wife of Thomas, 34 Frankfort-street.</item>
                   <item>
-                     <pb n="105" facs="tcp:035586_0103_1005F6CF90D2FDD8"/>
+                     <pb n="105" facs="unknown:035586_0103_1005F6CF90D2FDD8"/>
 Ghraw Frederic, Pump-street, <hi>Holland.</hi>
                   </item>
                   <item>Gibbs Iſaac, grocer, a child of, 37 James-street.</item>
@@ -2095,7 +2095,7 @@ Ghraw Frederic, Pump-street, <hi>Holland.</hi>
                   <item>Green Robert, M. Catharine ſtreet.</item>
                   <item>Green Mrs. aged 25, decay.</item>
                   <item>
-                     <pb n="106" facs="tcp:035586_0104_1005F6D3148A54D0"/>
+                     <pb n="106" facs="unknown:035586_0104_1005F6D3148A54D0"/>
 Green Mr. aged 21, accident.</item>
                   <item>Greenleaf Thomas, editor of the Argus, 54 Wall-ſtreet.</item>
                   <item>Grendelmier Mrs. Princeſs-ſtreet.</item>
@@ -2147,7 +2147,7 @@ Green Mr. aged 21, accident.</item>
                   <item>Harding Richard, carver and gilder, 1 Croſs-ſtreet.</item>
                   <item>Harding John, the wife and child of, 116 Cherry-ſtreet.</item>
                   <item>
-                     <pb n="107" facs="tcp:035586_0105_1005F6D562CA3C18"/>
+                     <pb n="107" facs="unknown:035586_0105_1005F6D562CA3C18"/>
 Hardy Nicholas, merchant, aged 23.</item>
                   <item>Hardgrave Mr. a child of, aged a years, flux.</item>
                   <item>Hardlow Elizabeth, 72 Murray-ſtreet.</item>
@@ -2189,7 +2189,7 @@ Hardy Nicholas, merchant, aged 23.</item>
                   <item>Hays Thomas, ſhoemaker, and child, 5 William-ſtreet.</item>
                   <item>Hearſey Mr. the wife of, 72 Wall-ſtreet.</item>
                   <item>
-                     <pb n="108" facs="tcp:035586_0106_1005F6D6F1DA40B8"/>
+                     <pb n="108" facs="unknown:035586_0106_1005F6D6F1DA40B8"/>
 Heath Mrs. aged 42.</item>
                   <item>Heberton John, taylor, wife of, 6 George-ſtreet.</item>
                   <item>Hegith William, Bellevue.</item>
@@ -2231,7 +2231,7 @@ Heath Mrs. aged 42.</item>
                   <item>Hodge Mr. aged 18.</item>
                   <item>Hoffman Tobias, baker, a child of, Magazine-ſtreet.</item>
                   <item>
-                     <pb n="109" facs="tcp:035586_0107_1005F6D9C124D0F0"/>
+                     <pb n="109" facs="unknown:035586_0107_1005F6D9C124D0F0"/>
 Hoffman widow, Chriſtian, ſon of, 19 Pine-ſtr. drowned.</item>
                   <item>Hoffman Mr. Ann, a child of, aged 6 weeks.</item>
                   <item>Holmes Jacob, Bellevue.</item>
@@ -2276,7 +2276,7 @@ Hoffman widow, Chriſtian, ſon of, 19 Pine-ſtr. drowned.</item>
                   <item>Hyſlop Alexander, merchant, <hi>Scotland.</hi>
                   </item>
                   <item>
-                     <pb n="110" facs="tcp:035586_0108_1005F6DCD315FC80"/>
+                     <pb n="110" facs="unknown:035586_0108_1005F6DCD315FC80"/>
 Hyſlop Herbert, b<gap reason="illegible" resp="#AELD" extent="1 letter">
                         <desc>•</desc>
                      </gap>ker, <hi>Scotland.</hi>
@@ -2331,7 +2331,7 @@ Hyſlop Herbert, b<gap reason="illegible" resp="#AELD" extent="1 letter">
                   <item>Johnſon Andrew, infant ſon of John, <hi>Scotland.</hi>
                   </item>
                   <item>
-                     <pb n="111" facs="tcp:035586_0109_1005F6DE5F973FF0"/>
+                     <pb n="111" facs="unknown:035586_0109_1005F6DE5F973FF0"/>
 Johnſon Mr. a child of, at the 3 mile-ſtone.</item>
                   <item>Johnſon Richard, ſhoemaker, <hi>Ireland.</hi>
                   </item>
@@ -2378,7 +2378,7 @@ Johnſon Mr. a child of, at the 3 mile-ſtone.</item>
                   <item>Kelly widow, 83 Murray-ſtreet.</item>
                   <item>Kelly Wm. Iames, Cheapſide-ſtreet.</item>
                   <item>
-                     <pb n="112" facs="tcp:035586_0110_1005F6E0EEC11208"/>
+                     <pb n="112" facs="unknown:035586_0110_1005F6E0EEC11208"/>
 Kelly Patrick, labourer, <hi>Ireland.</hi>
                   </item>
                   <item>Kendle Charles, ſilver ſmith, daughter Mary and wife Eli<g ref="char:EOLhyphen"/>zabeth, 43 Cliff-ſtreet.</item>
@@ -2425,7 +2425,7 @@ Kelly Patrick, labourer, <hi>Ireland.</hi>
                   <item>Kitty, a wench, 18 Rooſevelt-street.</item>
                   <item>Klapper Henry, the wife of, Moore's buildings.</item>
                   <item>
-                     <pb n="113" facs="tcp:035586_0111_1005F6E348902B50"/>
+                     <pb n="113" facs="unknown:035586_0111_1005F6E348902B50"/>
 Knapp Mary, the wife of Ebenezar, houſe-carpenter, 87 Harman-ſtreet.</item>
                   <item>Knapp David do.</item>
                   <item>Knapp Marian, Thomas-street, conſumption,</item>
@@ -2471,7 +2471,7 @@ Knapp Mary, the wife of Ebenezar, houſe-carpenter, 87 Harman-ſtreet.</item>
                   <item>Lavander Joſeph, painter, a child of.</item>
                   <item>Lavere Mr.—aged 82.</item>
                   <item>
-                     <pb n="114" facs="tcp:035586_0112_1005F6E6EF2ABCD0"/>
+                     <pb n="114" facs="unknown:035586_0112_1005F6E6EF2ABCD0"/>
 Lawrence Joſeph, Bellevue.</item>
                   <item>Lawrence George, ſhipmaster, <hi>Nantucket.</hi>
                   </item>
@@ -2521,7 +2521,7 @@ Lawrence Joſeph, Bellevue.</item>
                   <item>Lewis Betty, a black, Eden's alley.</item>
                   <item>Lewis Joſeph, a black.</item>
                   <item>
-                     <pb n="115" facs="tcp:035586_0113_1005F6E881A81668"/>
+                     <pb n="115" facs="unknown:035586_0113_1005F6E881A81668"/>
 Lewis—, attorney at law, Cherry-ſtreet. C.</item>
                   <item>Lumbert Henry, taylor, the child of.</item>
                   <item>Lincoln Francis, from Robert Thomas's, 15 Lumber ſtr.</item>
@@ -2564,7 +2564,7 @@ Lewis—, attorney at law, Cherry-ſtreet. C.</item>
                   <item>Lydig Clara, a wench, 4 Ferry-ſtreet.</item>
                   <item>Lyon Mr. a child of.</item>
                   <item>
-                     <pb n="116" facs="tcp:035586_0114_1005F6EAD510C6C8"/>
+                     <pb n="116" facs="unknown:035586_0114_1005F6EAD510C6C8"/>
 Lyon Harris, Ann-ſtreet.</item>
                   <item>Lyon James, mariner, Bellevue.</item>
                </list>
@@ -2609,7 +2609,7 @@ Lyon Harris, Ann-ſtreet.</item>
                   </item>
                   <item>M'Donald Jane, wife of Alexander, carpenter, near the old Furnace.</item>
                   <item>
-                     <pb n="117" facs="tcp:035586_0115_1005F6ED71C4A578"/>
+                     <pb n="117" facs="unknown:035586_0115_1005F6ED71C4A578"/>
 M'Donald Nelly, from Mr. William Mooney's, 75 Wall-st.</item>
                   <item>M'Donald Donald, 64 John-street, <hi>Scotland.</hi>
                   </item>
@@ -2659,7 +2659,7 @@ M'Donald Nelly, from Mr. William Mooney's, 75 Wall-st.</item>
                   </item>
                   <item>M'Keſſon John, clerk of the aſſembly of this state, 67 Pearl-street.</item>
                   <item>
-                     <pb n="118" facs="tcp:035586_0116_1005F6EFD3298480"/>
+                     <pb n="118" facs="unknown:035586_0116_1005F6EFD3298480"/>
 M'Kinlay Peter, china store, the wife and two children of, 119 Fly-market, <hi>Scotland.</hi>
                   </item>
                   <item>M'Kinlay Mr. Eagle-street.</item>
@@ -2705,7 +2705,7 @@ M'Kinlay Peter, china store, the wife and two children of, 119 Fly-market, <hi>S
                   <item>Mahan Jerry, the wife of, Charlotte-street.</item>
                   <item>Major Sally, wife of Samuel, printer, 37 Rutger-street.</item>
                   <item>
-                     <pb n="119" facs="tcp:035586_0117_1005F6F32A4F2570"/>
+                     <pb n="119" facs="unknown:035586_0117_1005F6F32A4F2570"/>
 Malcomb Suſan, ſister of Mrs. Malcomb, midwife, <gap reason="illegible" resp="#AELD" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> Fletcher-street, <hi>Scotland.</hi>
@@ -2749,7 +2749,7 @@ Malcomb Suſan, ſister of Mrs. Malcomb, midwife, <gap reason="illegible" resp="
                   <item>Millat Peter, maſon, 51 Bowery Lane.</item>
                   <item>Millegan Gilbert, apothecary, aged 23, 43 Water-street.</item>
                   <item>
-                     <pb n="120" facs="tcp:035586_0118_1005EBE495B0FE68"/>
+                     <pb n="120" facs="unknown:035586_0118_1005EBE495B0FE68"/>
 Miller Adolphus, teacher, 32 Naſſau-street.</item>
                   <item>Miller, widow, Catherine, a child of, 21 E. George-street.</item>
                   <item>Miller John ſilver ſmith, Dutch-street.</item>
@@ -2791,7 +2791,7 @@ Miller Adolphus, teacher, 32 Naſſau-street.</item>
                   <item>Morris Jacob, cartman, and wife, 11 Barclay-street.</item>
                   <item>Morris Abraham, a black man, alms-houſe.</item>
                   <item>
-                     <pb n="121" facs="tcp:035586_0119_1005F6F7116D5590"/>
+                     <pb n="121" facs="unknown:035586_0119_1005F6F7116D5590"/>
 Morris Samuel, ſlave to Mr. Ebbet, 71 Pearl-street.</item>
                   <item>Morris John, jeweller, Dutch-street.</item>
                   <item>Morris Mr. the child of.</item>
@@ -2838,7 +2838,7 @@ Morris Samuel, ſlave to Mr. Ebbet, 71 Pearl-street.</item>
                   <item>Mylander Nicholas, tavern and clothier, aged 45, 336 Water-ſtreet.</item>
                </list>
                <list>
-                  <pb n="122" facs="tcp:035586_0120_1005F6FA697C02A8"/>
+                  <pb n="122" facs="unknown:035586_0120_1005F6FA697C02A8"/>
                   <head>N</head>
                   <item>Nancy, a black woman, at John Murray's 27 Beekman-ſt.</item>
                   <item>Naſh Mary, wife of Samuel, mate of a veſſel, 69 Cliff-ſtr.</item>
@@ -2887,7 +2887,7 @@ Morris Samuel, ſlave to Mr. Ebbet, 71 Pearl-street.</item>
                   <item>Ogden Lewis, aged 48, Pearl-ſtreet.</item>
                   <item>Ogden David, merchant, 123, Pearl-ſtreet.</item>
                   <item>
-                     <pb n="123" facs="tcp:035586_0121_1005F6FBF8F8CB08"/>
+                     <pb n="123" facs="unknown:035586_0121_1005F6FBF8F8CB08"/>
 Ogden Mr. a child of, Frankfort ſtreet.</item>
                   <item>Ogden John, bricklayer, the wife of, 54 Ann-ſtreet.</item>
                   <item>Ogg James, E. George-ſtreet.</item>
@@ -2936,7 +2936,7 @@ Ogden Mr. a child of, Frankfort ſtreet.</item>
                   <item>Penny Mr. aged 18.</item>
                   <item>Pennycook William, coachmaker, the wife of, 8 Fair-ſtr.</item>
                   <item>
-                     <pb n="124" facs="tcp:035586_0122_1005F6FE79D21FC0"/>
+                     <pb n="124" facs="unknown:035586_0122_1005F6FE79D21FC0"/>
 Perrold Mrs. aged 29.</item>
                   <item>Perſs William, maſon and builder, aged 47, and a child, 34 Gold-ſtreet.</item>
                   <item>Peter—, an Italian, aged 33.</item>
@@ -2979,7 +2979,7 @@ Perrold Mrs. aged 29.</item>
                   <item>Prow John, Bellevue.</item>
                   <item>Prun Jacob, Second-ſtreet, and child.</item>
                   <item>
-                     <pb n="125" facs="tcp:035586_0123_1005F7004585ECD8"/>
+                     <pb n="125" facs="unknown:035586_0123_1005F7004585ECD8"/>
 Pudney John, Grand, near Suffolk-ſtteet.</item>
                   <item>Punches John C. taylor, 27 George-ſtreet.</item>
                   <item>Purdy Munmouth, taylor, 395 Pearl-ſtreet.</item>
@@ -3025,7 +3025,7 @@ Pudney John, Grand, near Suffolk-ſtteet.</item>
                   <item>Remſen John H. jun. attorney at law, 92 Pearl-ſt. aged 28</item>
                   <item>Remſen Elizabeth, Bellevue.</item>
                   <item>
-                     <pb n="126" facs="tcp:035586_0124_1005F70380617538"/>
+                     <pb n="126" facs="unknown:035586_0124_1005F70380617538"/>
 Renwick William, merchant, a child of, 67, Maiden-lane.</item>
                   <item>Reſide Hannah, 13 Rutger's-ſtreet.</item>
                   <item>Reviere Thomas, ſon of Jacob, 172 Diviſion-ſtreet.</item>
@@ -3069,7 +3069,7 @@ Renwick William, merchant, a child of, 67, Maiden-lane.</item>
                   </item>
                   <item>Robins Ezekiel, a black man, from the houſe of 174 Wa<g ref="char:EOLhyphen"/>ter-ſtreet.</item>
                   <item>
-                     <pb n="127" facs="tcp:035586_0125_1005F7071E3DA360"/>
+                     <pb n="127" facs="unknown:035586_0125_1005F7071E3DA360"/>
 Robins Mary, a child, Alms-houſe.</item>
                   <item>Robins Sarah, wife of Ezekiel, 174 Water-ſtreet.</item>
                   <item>Robins Sarah, 49 Cliff-ſtreet.</item>
@@ -3118,7 +3118,7 @@ Robins Mary, a child, Alms-houſe.</item>
                   <item>Ruſſel Timothy, houſe carpenter, 56 James-ſtreet.</item>
                   <item>Ruſſel Mr. cartman, Warren ſtreet.</item>
                   <item>
-                     <pb n="128" facs="tcp:035586_0126_1005F708AB9D5438"/>
+                     <pb n="128" facs="unknown:035586_0126_1005F708AB9D5438"/>
 Ruſtey John, ſhoemaker, 10 Robinſon-ſtreet, <hi>Germany.</hi>
                   </item>
                   <item>Ruthman John, 20 John-ſtreet.</item>
@@ -3169,7 +3169,7 @@ Ruſtey John, ſhoemaker, 10 Robinſon-ſtreet, <hi>Germany.</hi>
                   </item>
                   <item>Scott William, apprentice to Meſſrs. Swords, printers, 99 Pearl-ſtreet.</item>
                   <item>
-                     <pb n="129" facs="tcp:035586_0127_1005F70B0E95B420"/>
+                     <pb n="129" facs="unknown:035586_0127_1005F70B0E95B420"/>
 Scott Mr. Bellevue.</item>
                   <item>Scroggie George, Pearl-ſtreet, near the exchange.</item>
                   <item>Scudder William, cuſtom houſe officer.</item>
@@ -3218,7 +3218,7 @@ Scott Mr. Bellevue.</item>
                   <item>Shonnard John, tavern-keeper, Bowery.</item>
                   <item>Shotwell Widow, 102 Chamber-ſtreet.</item>
                   <item>
-                     <pb n="130" facs="tcp:035586_0128_1005F70E4E7EC508"/>
+                     <pb n="130" facs="unknown:035586_0128_1005F70E4E7EC508"/>
 Shotwell Iſaac, and his ſon Joſeph, blackſmiths.</item>
                   <item>Shrady John, ſhoemaker, a child of, 86 Chatham-ſtreet.</item>
                   <item>Shuller Ludwig, cartman, a child of, Veſey-ſtreet.</item>
@@ -3258,7 +3258,7 @@ Shotwell Iſaac, and his ſon Joſeph, blackſmiths.</item>
                   <item>Smith Albert, muſical inſtrument maker, the wife, daugh<g ref="char:EOLhyphen"/>ter and ſon of, 86 John-ſtreet.</item>
                   <item>Smith Adolph, Bowery-lane, conſumption.</item>
                   <item>
-                     <pb n="131" facs="tcp:035586_0129_1005F70FDD190150"/>
+                     <pb n="131" facs="unknown:035586_0129_1005F70FDD190150"/>
 Smith Alexander, merchant, 177 Pearl-ſtreet, <hi>Scotland.</hi>
                   </item>
                   <item>Smith Bernardus, taylor, the wife of, 36 Gold-ſtreet.</item>
@@ -3307,7 +3307,7 @@ Smith Alexander, merchant, 177 Pearl-ſtreet, <hi>Scotland.</hi>
                   <item>Springer Richmond, ſhipwright, and wife, Lumber-ſtreet.</item>
                   <item>Springſteen Elizabeth.</item>
                   <item>
-                     <pb n="132" facs="tcp:035586_0130_1005F7116B6515C8"/>
+                     <pb n="132" facs="unknown:035586_0130_1005F7116B6515C8"/>
 Sprong Mr. Broad-ſtreet, near the Exchange, aged 27.</item>
                   <item>Stagg Deborah, 52 Eaſt George-ſtreet, aged 18.</item>
                   <item>Stagg Cynthia, wife of Nicholas, 99 Catharine-ſtreet.</item>
@@ -3358,7 +3358,7 @@ Sprong Mr. Broad-ſtreet, near the Exchange, aged 27.</item>
                   <item>Sudderland Mr. a child of, aged 3 months.</item>
                   <item>Sullivan Martin, Fair-ſtreet.</item>
                   <item>
-                     <pb n="133" facs="tcp:035586_0131_1005F715E6DB5F58"/>
+                     <pb n="133" facs="unknown:035586_0131_1005F715E6DB5F58"/>
 Summers Nathaniel, 26 Stone-ſtreet.</item>
                   <item>Sunter Elizabeth, wife of Alexander, 114 Chatham-ſtreet.</item>
                   <item>Suſan, a black, from the houſe of Joze R. Silva, 28 Wil<g ref="char:EOLhyphen"/>liam-ſtreet.</item>
@@ -3404,7 +3404,7 @@ Summers Nathaniel, 26 Stone-ſtreet.</item>
                   <item>Thorne Suſannah, Firſt-ſtreet.</item>
                   <item>Thraſh William, mariner, Bellevue.</item>
                   <item>
-                     <pb n="134" facs="tcp:035586_0132_1005F718E8785DE8"/>
+                     <pb n="134" facs="unknown:035586_0132_1005F718E8785DE8"/>
 Thorne Elizabeth, Firſt-ſtreet.</item>
                   <item>Thornton Mrs. wife of John, Grocer, 163 Fly-market.</item>
                   <item>Thorp Benjamin, 29 Cliff-ſtreet.</item>
@@ -3448,7 +3448,7 @@ Thorne Elizabeth, Firſt-ſtreet.</item>
                   <item>Tweed John, 29 Cheapſide.</item>
                   <item>Twitchings Elizabeth, wife of Henry, grocer, 74 Front-ſt.</item>
                   <item>
-                     <pb n="135" facs="tcp:035586_0133_1005F71A752E6910"/>
+                     <pb n="135" facs="unknown:035586_0133_1005F71A752E6910"/>
 Tylee Mr. the wife and child of, Chatham-ſtreet.</item>
                   <item>Tyler—, a man from the Hoſpital.</item>
                </list>
@@ -3494,7 +3494,7 @@ Tylee Mr. the wife and child of, Chatham-ſtreet.</item>
                   <item>Van Zandt Peter and Thomas, ſons of Peter Pra, mer<g ref="char:EOLhyphen"/>chants, 180 Water-ſtreet.</item>
                   <item>Varian Margaret, child of Iſaac, butcher, Bowery-lane.</item>
                   <item>
-                     <pb n="136" facs="tcp:035586_0134_1005F71CF96E4540"/>
+                     <pb n="136" facs="unknown:035586_0134_1005F71CF96E4540"/>
 Varet John, Lumber near Catharine-ſtreet.</item>
                   <item>Varick John, phyſician, 6 Cortland-ſtreet</item>
                   <item>Varick Mr. cartman, the wife of, Lumber-ſtreet.</item>
@@ -3540,7 +3540,7 @@ Varet John, Lumber near Catharine-ſtreet.</item>
                   <item>Waſhburn Mr. a child of, aged 6 months.</item>
                   <item>Waters James, a lad from Water near Dover-ſtreet.</item>
                   <item>
-                     <pb n="137" facs="tcp:035586_0135_1005F7209EDA1DF8"/>
+                     <pb n="137" facs="unknown:035586_0135_1005F7209EDA1DF8"/>
 Waters John, Lumber-ſtreet.</item>
                   <item>Waters John, Surveyor, the wife of, Lumber-ſtreet.</item>
                   <item>Waters Thomas, oyſterman, the wife and daughter of, Rider-ſtreet.</item>
@@ -3587,7 +3587,7 @@ Waters John, Lumber-ſtreet.</item>
                   <item>Wetherby Ann, wife of James, 7th ward.</item>
                   <item>Wheeler Amelia. Diviſion-ſtreet.</item>
                   <item>
-                     <pb n="138" facs="tcp:035586_0136_1005F7223144A7D8"/>
+                     <pb n="138" facs="unknown:035586_0136_1005F7223144A7D8"/>
 Wheeler Richard, cartman, a child of Diviſion-ſtreet.</item>
                   <item>Wheeler Nancy, 33 William-ſtreet.</item>
                   <item>Whitacre Mr. Ship carpenter.</item>
@@ -3628,7 +3628,7 @@ Wheeler Richard, cartman, a child of Diviſion-ſtreet.</item>
                   <item>Winſhip Mary, Liberty-ſtreet.</item>
                   <item>Winter Auguſtus, fur merchant, 120 William-ſtreet,</item>
                   <item>
-                     <pb n="139" facs="tcp:035586_0137_1005F724C377AE18"/>
+                     <pb n="139" facs="unknown:035586_0137_1005F724C377AE18"/>
 Winthrop Tamar, a black.</item>
                   <item>Wiſhart George, Dean. 319 Pearl-ſtreet.</item>
                   <item>Witmore Mr. Fletcher-ſtreet.</item>
@@ -3667,7 +3667,7 @@ Winthrop Tamar, a black.</item>
                </list>
             </div>
             <div type="list_of_burials">
-               <pb facs="tcp:035586_0138_1005F727358FCEA8"/>
+               <pb facs="unknown:035586_0138_1005F727358FCEA8"/>
                <head>Liſt of the Burials, in the different grave yards in the city of New-York, at Potter's Fields, and Bellevue, from 1ſt, Auguſt to 12th, November, 1798.</head>
                <p>
                   <table>
@@ -4463,7 +4463,7 @@ Winthrop Tamar, a black.</item>
                      </row>
                   </table>
                   <table>
-                     <pb facs="tcp:035586_0139_1005F72AE908DE18"/>
+                     <pb facs="unknown:035586_0139_1005F72AE908DE18"/>
                      <head>SEPTEMBER.</head>
                      <row>
                         <cell role="label">DAYS.</cell>
@@ -5494,7 +5494,7 @@ Winthrop Tamar, a black.</item>
                      </row>
                   </table>
                   <table>
-                     <pb facs="tcp:035586_0140_1005F72C8F7D7828"/>
+                     <pb facs="unknown:035586_0140_1005F72C8F7D7828"/>
                      <head>OCTOBER.</head>
                      <row>
                         <cell role="label">DAYS.</cell>
@@ -6479,7 +6479,7 @@ Winthrop Tamar, a black.</item>
                      </row>
                   </table>
                   <table>
-                     <pb facs="tcp:035586_0141_1005F72E439E4500"/>
+                     <pb facs="unknown:035586_0141_1005F72E439E4500"/>
                      <head>NOVEMBER.</head>
                      <row>
                         <cell role="label">DAYS.</cell>
@@ -6875,7 +6875,7 @@ Winthrop Tamar, a black.</item>
                   </table>
                </p>
                <p>
-                  <pb facs="tcp:035586_0142_1007A8BE9C71A590"/>
+                  <pb facs="unknown:035586_0142_1007A8BE9C71A590"/>
                   <table>
                      <head>The number of perſons interred in each of the burying grounds of this city, from 1ſt Auguſt, to 10th November 1798.</head>
                      <row>
@@ -6964,7 +6964,7 @@ Winthrop Tamar, a black.</item>
                      </row>
                   </table>
                   <table>
-                     <pb facs="tcp:035586_0143_1007A8BA1FD31458"/>
+                     <pb facs="unknown:035586_0143_1007A8BA1FD31458"/>
                      <head>METEOROLOGICAL OBSERVATIONS MADE IN THE CUPOLA OF THE MUSEUM, AT NEW-YORK. AUGUST, 1798.</head>
                      <row>
                         <cell role="label">Days.</cell>
@@ -7306,7 +7306,7 @@ Winthrop Tamar, a black.</item>
                      </row>
                   </table>
                   <table>
-                     <pb facs="tcp:035586_0144_1007A8BBD6A54978"/>
+                     <pb facs="unknown:035586_0144_1007A8BBD6A54978"/>
                      <head>METEOROLOGICAL OBSERVATIONS. NEW-YORK, SEPTEMBER, 1798.</head>
                      <row>
                         <cell role="label">Days.</cell>
@@ -7637,7 +7637,7 @@ Winthrop Tamar, a black.</item>
                      </row>
                   </table>
                   <table>
-                     <pb facs="tcp:035586_0145_1007A8B893EC9DD0"/>
+                     <pb facs="unknown:035586_0145_1007A8B893EC9DD0"/>
                      <head>METEOROLOGICAL OBSERVATIONS. NEW-YORK, OCTOBER, 1798.</head>
                      <row>
                         <cell role="label">Days.</cell>
@@ -8134,7 +8134,7 @@ Winthrop Tamar, a black.</item>
             </div>
          </div>
          <div n="5" type="part">
-            <pb facs="tcp:035586_0146_1007A8B3F96B0920"/>
+            <pb facs="unknown:035586_0146_1007A8B3F96B0920"/>
             <head>COMPARATIVE STATEMENT, &amp;c.</head>
             <p>
                <table>
